@@ -1,64 +1,64 @@
 [
   {
     "id": 198,
-    "remarks": ".Surfboardv2ray",
-    "site": "Surfboardv2ray",
+    "remarks": ".ss",
+    "site": ".ss",
     "url": "https://ghp.ci/https://github.com/qjlxg/ss/raw/refs/heads/master/snippets/nodes_HK.yml",
     "update_method": "auto",
     "enabled": true
   },
   {
     "id": 199,
-    "remarks": ".Surfboardv2ray",
-    "site": "Surfboardv2ray",
+    "remarks": ".ss",
+    "site": ".ss",
     "url": "https://ghp.ci/https://github.com/qjlxg/ss/raw/refs/heads/master/snippets/nodes_CA.yml",
     "update_method": "auto",
     "enabled": true
   },
   {
     "id": 200,
-    "remarks": ".Surfboardv2ray",
-    "site": "Surfboardv2ray",
+    "remarks": ".ss",
+    "site": ".ss",
     "url": "https://ghp.ci/https://github.com/qjlxg/ss/raw/refs/heads/master/snippets/nodes_CN.yml",
     "update_method": "auto",
     "enabled": true
   },
   {
     "id": 201,
-    "remarks": ".Surfboardv2ray",
-    "site": "Surfboardv2ray",
+    "remarks": ".ss",
+    "site": ".ss",
     "url": "https://ghp.ci/https://github.com/qjlxg/ss/raw/refs/heads/master/snippets/nodes_FR.yml",
     "update_method": "auto",
     "enabled": true
   },
   {
     "id": 202,
-    "remarks": ".Surfboardv2ray",
-    "site": "Surfboardv2ray",
+    "remarks": ".ss",
+    "site": ".ss",
     "url": "https://ghp.ci/https://github.com/qjlxg/ss/raw/refs/heads/master/snippets/nodes_TW.yml",
     "update_method": "auto",
     "enabled": true
   },
   {
     "id": 203,
-    "remarks": ".Surfboardv2ray",
-    "site": "Surfboardv2ray",
+    "remarks": ".ss",
+    "site": ".ss",
     "url": "https://ghp.ci/https://github.com/qjlxg/ss/raw/refs/heads/master/snippets/nodes_JP.yml",
     "update_method": "auto",
     "enabled": true
   },
   {
     "id": 204,
-    "remarks": ".Surfboardv2ray",
-    "site": "Surfboardv2ray",
+    "remarks": ".ss",
+    "site": ".ss",
     "url": "https://ghp.ci/https://github.com/qjlxg/ss/raw/refs/heads/master/snippets/nodes_SG.yml",
     "update_method": "auto",
     "enabled": true
   },
   {
     "id": 205,
-    "remarks": ".Surfboardv2ray",
-    "site": "Surfboardv2ray",
+    "remarks": ".ss",
+    "site": ".ss",
     "url": "https://ghp.ci/https://github.com/qjlxg/ss/raw/refs/heads/master/snippets/nodes_US.yml",
     "update_method": "auto",
     "enabled": true
@@ -97,9 +97,9 @@
   },
   {
     "id": 210,
-    "remarks": ".YBSub",
-    "site": "YBSub",
-    "url": "https://ghp.ci/https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed",
+    "remarks": ".nodes",
+    "site": "nodes",
+    "url": "https://ghp.cihttps://github.com/qjlxg/ss/raw/refs/heads/master/snippets/nodes.yml",
     "update_method": "auto",
     "enabled": true
   }
