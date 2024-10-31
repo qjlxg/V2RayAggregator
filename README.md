@@ -521,7 +521,7 @@ high-speed node quantity: `200`
 - you can import these 200 tested nodes using their subscription link into different clients. refer to `Instructions & Usage` section
 
 ### all nodes
-merge nodes w/o dup: `15849`
+merge nodes w/o dup: `15719`
 - [Node link Mixed (V2ray)](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt)
 - [Node link Yaml (Clash)](https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml)
 
@@ -544,18 +544,18 @@ merge nodes w/o dup: `15849`
 
 
 ### node sources
-- [.Surfboardv2ray](Surfboardv2ray), number of nodes: `635`
-- [.Surfboardv2ray](Surfboardv2ray), number of nodes: `858`
-- [.Surfboardv2ray](Surfboardv2ray), number of nodes: `1640`
-- [.Surfboardv2ray](Surfboardv2ray), number of nodes: `1018`
-- [.Surfboardv2ray](Surfboardv2ray), number of nodes: `133`
-- [.Surfboardv2ray](Surfboardv2ray), number of nodes: `617`
-- [.Surfboardv2ray](Surfboardv2ray), number of nodes: `622`
-- [.Surfboardv2ray](Surfboardv2ray), number of nodes: `7954`
-- [.YBSub](YBSub), number of nodes: `1724`
+- [.Surfboardv2ray](Surfboardv2ray), number of nodes: `634`
+- [.Surfboardv2ray](Surfboardv2ray), number of nodes: `847`
+- [.Surfboardv2ray](Surfboardv2ray), number of nodes: `1639`
+- [.Surfboardv2ray](Surfboardv2ray), number of nodes: `1024`
+- [.Surfboardv2ray](Surfboardv2ray), number of nodes: `132`
+- [.Surfboardv2ray](Surfboardv2ray), number of nodes: `618`
+- [.Surfboardv2ray](Surfboardv2ray), number of nodes: `620`
+- [.Surfboardv2ray](Surfboardv2ray), number of nodes: `7961`
+- [.YBSub](YBSub), number of nodes: `1721`
 - [.YBSub](YBSub), number of nodes: `8`
-- [.YBSub](YBSub), number of nodes: `857`
-- [.YBSub](YBSub), number of nodes: `5016`
+- [.YBSub](YBSub), number of nodes: `838`
+- [.YBSub](YBSub), number of nodes: `4861`
 - [.YBSub](YBSub), number of nodes: `853`
 
 ## Softwares
