@@ -1,4 +1,20 @@
 [
+   {
+    "id": 196,
+    "remarks": ".V2ray-Configs",
+    "site": ".V2ray-Configs",
+    "url": "https://ghp.ci/https://github.com/qjlxg/V2ray-Configs/raw/refs/heads/main/Sub1.txt",
+    "update_method": "auto",
+    "enabled": true
+  },
+   {
+    "id": 197,
+    "remarks": ".V2ray-Configs",
+    "site": ".V2ray-Configs",
+    "url": "https://ghp.ci/https://github.com/qjlxg/V2ray-Configs/raw/refs/heads/main/Sub2.txt",
+    "update_method": "auto",
+    "enabled": true
+  },
   {
     "id": 198,
     "remarks": ".ss",
