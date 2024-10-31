@@ -1,1 +1,10 @@
-sub_list.json
+[
+  {
+    "id": 78,
+    "remarks": "LonUp/NodeList",
+    "site": "https://github.com/LonUp/NodeList",
+    "url": "https://raw.githubusercontent.com/LonUp/NodeList/main/Clash/Node/Latest.yaml",
+    "update_method": "auto",
+    "enabled": true
+  }
+]
