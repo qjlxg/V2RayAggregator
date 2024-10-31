@@ -1,5 +1,5 @@
 [
-   {
+  {
     "id": 196,
     "remarks": ".V2ray-Configs",
     "site": ".V2ray-Configs",
@@ -7,7 +7,7 @@
     "update_method": "auto",
     "enabled": true
   },
-   {
+  {
     "id": 197,
     "remarks": ".V2ray-Configs",
     "site": ".V2ray-Configs",
