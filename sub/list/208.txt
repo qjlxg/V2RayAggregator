@@ -1,7 +1,6 @@
   - {name: 防失效github.com/Leon406/Sub 🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.12.229:2053, server: 104.18.12.229, port: 2053, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
-  - {name: 🇬🇧 TR-TCP-TLS 英国-3.10.161.140:22222, server: 3.10.161.140, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: TR-WS-NONE 🏴‍☠️ NA-104.17.147.22:8880, server: 104.17.147.22, port: 8880, type: trojan, password: d4ff43e1-3131-4c32-e41b-716303c8ee49, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 127, server: trevor.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 134, server: trevor.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: XX, server: 104.17.68.85, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-TCP-NA 🏴‍☠️ NA-104.16.25.46:443, server: 104.16.25.46, port: 443, type: trojan, password: blue2024, sni: ta.promote.icu, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-198.41.220.83:443, server: 198.41.220.83, port: 443, type: trojan, password: e8105dfd24414268b6c7652c63731097, sni: jobscareertoday.com, skip-cert-verify: false}
@@ -11,23 +10,21 @@
   - {name: TR-WS-TLS 🏴‍☠️ NA-108.162.195.168:443, server: 108.162.195.168, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.21.152:443, server: 104.20.21.152, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🇬🇧 TR-TCP-TLS 英国-35.179.220.249:22222, server: 35.179.220.249, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: ChatGPT 🏁 ZZ_1116, server: square-husky.sunbeam921.monster, port: 443, type: trojan, password: !<str> 3648425794742788096, skip-cert-verify: false}
   - {name: 🇺🇸 TR-HTTP-TLS 美国-67.220.72.41:443, server: 67.220.72.41, port: 443, type: trojan, password: sharevpn, sni: tlsh2ss.mynode.work.gd, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.21.155:443, server: 104.20.21.155, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-TCP-NA 🏴‍☠️ NA-198.41.220.8:443, server: 198.41.220.8, port: 443, type: trojan, password: b4e8771997c94732acbc9ec4d19c2589, sni: jobscareerforstudent.com, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 198, server: 172.67.204.84, port: 443, type: trojan, password: qj1Dz1CJmFQRhWr1SP80aA, sni: cdn-21.gsmxreality.com, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 206, server: 172.67.204.84, port: 443, type: trojan, password: qj1Dz1CJmFQRhWr1SP80aA, sni: cdn-21.gsmxreality.com, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.17.147.22:443, server: 104.17.147.22, port: 443, type: trojan, password: bpb-trojan, sni: bpB-wORkeR-pANEl-ay6.pages.deV, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.19.35.144:443, server: 104.19.35.144, port: 443, type: trojan, password: tg-dns68, sni: vip.putata.eu.org, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 58, server: 104.17.148.22, port: 443, type: trojan, password: Watashi_VPN, sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 62, server: 104.17.148.22, port: 443, type: trojan, password: Watashi_VPN, sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.18.6.36:8443, server: 104.18.6.36, port: 8443, type: trojan, password: channel-daily-configs, sni: kanale-daily-configs.blackoutconnection.ir, skip-cert-verify: false}
   - {name: TR-WS-NONE 🏴‍☠️ NA-190.93.247.152:80, server: 190.93.247.152, port: 80, type: trojan, password: 572e7789-76af-51c8-928b-e327d862f16c, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 66, server: 172.67.204.84, port: 443, type: trojan, password: Watashi_VPN, sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 70, server: 172.67.204.84, port: 443, type: trojan, password: Watashi_VPN, sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir, skip-cert-verify: false}
   - {name: 🇺🇸 |美国-进阶IEPL 03, server: IEPL05.catcat-123.com, port: 20043, type: trojan, password: 44123e4a-3480-4392-978c-b4eb1b3095d7, sni: us-01.oneok.link, skip-cert-verify: false}
   - {name: XX 2, server: 104.18.12.229, port: 2053, type: trojan, password: Watashi_VPN, sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.18.4.46:2083, server: 104.18.4.46, port: 2083, type: trojan, password: join-bede-daily-configs, sni: kanale-daily-configs.blackoutconnection.ir, skip-cert-verify: false}
   - {name: TR-WS-NONE 🏴‍☠️ NA-172.67.171.39:80, server: 172.67.171.39, port: 80, type: trojan, password: c8951426-a5a8-5fcb-884f-0a253f771dfd, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.27.7.142:2053, server: 104.27.7.142, port: 2053, type: trojan, password: Watashi_VPN, sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir, skip-cert-verify: false}
-  - {name: 🇬🇧 TR-TCP-TLS 英国-13.43.208.192:22222, server: 13.43.208.192, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.19.35.14:443, server: 104.19.35.14, port: 443, type: trojan, password: bpb-trojan, sni: BPB-wOrkeR-pANel1-E4P.pageS.DeV, skip-cert-verify: false}
   - {name: TR-TCP-NA 🏴‍☠️ NA-104.16.239.254:443, server: 104.16.239.254, port: 443, type: trojan, password: blue2024, sni: ta.promote.icu, skip-cert-verify: false}
   - {name: 🏳️‍🌈 日本-OS1-1-流量倍率:1.0, server: os1-1.nrojat.com, port: 443, type: trojan, password: EJBsFzWnEgXZnmzHq8, skip-cert-verify: false}
@@ -36,6 +33,7 @@
   - {name: TR-TCP-NA 🏴‍☠️ NA-108.162.195.188:443, server: 108.162.195.188, port: 443, type: trojan, password: blue2024, sni: ta.promote.icu, skip-cert-verify: false}
   - {name: TR-TCP-NA 🏴‍☠️ NA-162.159.44.187:443, server: 162.159.44.187, port: 443, type: trojan, password: blue2024, sni: ta.promote.icu, skip-cert-verify: false}
   - {name: TR-TCP-NA 🏴‍☠️ NA-108.162.195.187:443, server: 108.162.195.187, port: 443, type: trojan, password: blue2024, sni: ta.promote.icu, skip-cert-verify: false}
+  - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.18.61:443, server: 104.20.18.61, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🇺🇸 United States, server: 104.17.147.8, port: 443, type: trojan, password: 4aec4e7f8cf8454ea4613659822e1a61, sni: jobscareerforstudent.com, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.17.138:443, server: 104.20.17.138, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: XX 3, server: 172.67.95.24, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
@@ -44,14 +42,13 @@
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.152.134:443, server: 162.159.152.134, port: 443, type: trojan, password: tg-dns68, sni: vip.putata.eu.org, skip-cert-verify: false}
   - {name: 🇩🇪 德国-108.61.171.167-9973, server: 108.61.171.167, port: 443, type: trojan, password: mainssh-niwrhf87, sni: getgrpc.mainssh.xyz, skip-cert-verify: false}
   - {name: 🇺🇸 United States 3, server: 162.159.130.234, port: 2083, type: trojan, password: qG9K8AGnn9XH5jUqeFu96g, sni: cdn13.cdn2cdn.com, skip-cert-verify: false}
-  - {name: 🇨🇳 V1-台湾, server: aab9d02a7bfe9df83135ff73a63f346e.v1.cac.node-is.green, port: 49589, type: trojan, password: 7bd8bd80-0be5-4299-8a2c-8fafd4c247df, sni: tw1.speedtest.net, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.5.134:2083, server: 104.20.5.134, port: 2083, type: trojan, password: 6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba, sni: vfarid.xcdi.wOrKERS.DEV, skip-cert-verify: false}
   - {name: XX 4, server: www.visa.com.sg, port: 8443, type: trojan, password: Watashi_VPN, sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir, skip-cert-verify: false}
   - {name: TR-TCP-NA 🏴‍☠️ NA-104.17.48.63:443, server: 104.17.48.63, port: 443, type: trojan, password: blue2024, sni: ta.promote.icu, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.66.47.169:443, server: 172.66.47.169, port: 443, type: trojan, password: 0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef, sni: pardazeshvpn-tg7.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.44.168:443, server: 162.159.44.168, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: XX 5, server: 104.17.147.7, port: 443, type: trojan, password: 71409d3e488548e8bb076d229778f008, sni: jobscareertoday.com, skip-cert-verify: false}
-  - {name: ZZ_1047, server: 176.126.113.161, port: 443, type: trojan, password: c378f9c9-733c-4a28-af47-cfa8b063a7f6, skip-cert-verify: false}
+  - {name: ZZ_1032, server: 176.126.113.161, port: 443, type: trojan, password: c378f9c9-733c-4a28-af47-cfa8b063a7f6, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.44.159:443, server: 162.159.44.159, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: XX 6, server: www.hugedomains.com, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-188.114.98.89:443, server: 188.114.98.89, port: 443, type: trojan, password: bpb-trojan, sni: bpB-woRker-PanEL-AY6.pagEs.dev, skip-cert-verify: false}
@@ -66,11 +63,13 @@
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.152.2:2053, server: 162.159.152.2, port: 2053, type: trojan, password: Daily_Configs_Channel, sni: kanale-daily-configs.blackoutconnection.ir, skip-cert-verify: false}
   - {name: 这些节点只能备用或者防止失联，虽然质量并不是很好，也请低调使用:), server: us2.trojanvh.xyz, port: 80, type: trojan, password: 255c924c-1314-4084-9a9e-1d1a82a5cf49, skip-cert-verify: false}
   - {name: 🏳️‍🌈 爱沙尼亚-EE1-2-流量倍率:0.1, server: ee1-2.nrojat.com, port: 443, type: trojan, password: EJBsFzWnEgXZnmzHq8, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 43, server: ihave.baselinux.net, port: 39257, type: trojan, password: FXsXW6uWH5HqptVp7H2SfFvrTRHDnAsn, sni: ihave.baselinux.net, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 46, server: ihave.baselinux.net, port: 39257, type: trojan, password: FXsXW6uWH5HqptVp7H2SfFvrTRHDnAsn, sni: ihave.baselinux.net, skip-cert-verify: false}
+  - {name: 🇬🇧 TR-TCP-TLS 英国-18.168.15.115:22222, server: 18.168.15.115, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: 🇺🇸 United States 4, server: 104.16.159.8, port: 443, type: trojan, password: f0eb8c92ce8946aaba856569cff1a16b, sni: bangladeshipatri.com, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.64.35.192:443, server: 172.64.35.192, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.153.38:443, server: 162.159.153.38, port: 443, type: trojan, password: tg-dns68, sni: vip.putata.eu.org, skip-cert-verify: false}
   - {name: 🇺🇸 美国, server: 190.93.246.57, port: 443, type: trojan, password: NISHIKUITAN222, skip-cert-verify: false, network: ws, ws-opts: {path: "%2F"}}
+  - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.19.21:443, server: 104.20.19.21, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: RELAY-104.21.12.87-9061, server: series-v1.samanehha.co, port: 443, type: trojan, password: 0b65bb06-6b28-487a-8e3c-820dda51e977, sni: series-v1.samanehha.co, skip-cert-verify: false}
   - {name: 🇺🇸 美国加利福尼亚州圣克拉拉+腾讯云, server: 43.153.103.203, port: 443, type: trojan, password: 95b, sni: 15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-108.162.195.176:443, server: 108.162.195.176, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
@@ -80,10 +79,10 @@
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.64.153.235:2053, server: 172.64.153.235, port: 2053, type: trojan, password: bpb-trojan, sni: bpB-worKER-paneL1-e4p.pAGes.dEV, skip-cert-verify: false}
   - {name: VL-0809-027, server: wilson.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 01-rep-tro, server: we.alicesss.repl.co, port: 443, type: trojan, password: 68ac8a42-30ca-43fc-bf9b-2f4ceb1eade8, sni: we.alicesss.repl.co, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 72, server: 95.217.112.138, port: 110, type: trojan, password: XslctYye3P, sni: flt1.ftpcomand.com, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 76, server: 95.217.112.138, port: 110, type: trojan, password: XslctYye3P, sni: flt1.ftpcomand.com, skip-cert-verify: false}
   - {name: 🇺🇸 美国-129.146.147.170-6398, server: need.uno, port: 443, type: trojan, password: 6aWFNbrFDs, skip-cert-verify: false}
   - {name: 🇸🇪 TR-TCP-TLS 瑞典-13.50.167.71:22222, server: 13.50.167.71, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 71, server: 95.217.112.137, port: 110, type: trojan, password: XslctYye3P, sni: flt1.ftpcomand.com, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 75, server: 95.217.112.137, port: 110, type: trojan, password: XslctYye3P, sni: flt1.ftpcomand.com, skip-cert-verify: false}
   - {name: 🇲🇴 |澳门-IEPL 02, server: IEPL02.catcat-123.com, port: 20069, type: trojan, password: c03b5a06-cc76-4b47-af5f-5d1159892e6d, sni: mo.oneok.link, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.67.2.238:2083, server: 172.67.2.238, port: 2083, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
   - {name: 🇦🇺 澳大利亚-103.224.212.211-3658, server: jp-h1.sshub.xyz, port: 443, type: trojan, password: 61605c66-6d41-4b9d-a496-b9898f3f95d0, skip-cert-verify: false}
@@ -96,7 +95,6 @@
   - {name: 🇺🇸 |美国-IEPL 01 2, server: IEPL02.catcat-123.com, port: 20007, type: trojan, password: c03b5a06-cc76-4b47-af5f-5d1159892e6d, sni: us-02.oneok.link, skip-cert-verify: false}
   - {name: 🇭🇰 香港-45.146.232.173-1348, server: aafrtpfxr.jpl03i9zjfegelp.5xfsur8v62.gosdk.xyz, port: 22271, type: trojan, password: 1a8050cd-50d8-4b7d-a73e-193222f39822, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
   - {name: 🇯🇵 |日本-IEPL 02, server: IEPL02.catcat-123.com, port: 20009, type: trojan, password: c03b5a06-cc76-4b47-af5f-5d1159892e6d, sni: JP-02.oneok.link, skip-cert-verify: false}
-  - {name: سرور 83 | Aba-11| MTSRVRS, server: 18.202.85.12, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: XX 9, server: 103.160.204.59, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🇭🇰 |香港-IEPL 02, server: IEPL02.catcat-123.com, port: 20010, type: trojan, password: c03b5a06-cc76-4b47-af5f-5d1159892e6d, sni: cmhk-01.oneok.link, skip-cert-verify: false}
   - {name: 🇰🇷 |韩国-IEPL 01, server: IEPL02.catcat-123.com, port: 20014, type: trojan, password: c03b5a06-cc76-4b47-af5f-5d1159892e6d, sni: kr-01.oneok.link, skip-cert-verify: false}
@@ -104,6 +102,7 @@
   - {name: 🇯🇵 日本-74.226.136.204-4033, server: jp01.trojanyyds.xyz, port: 443, type: trojan, password: cd41b9d7-df15-46ad-a778-257b0851525a, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.17.128:443, server: 104.20.17.128, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: XX 10, server: 104.17.215.14, port: 443, type: trojan, password: 984e400bf5d541b7b0815913fe0c432a, sni: jobscareerforlawyers.com, skip-cert-verify: false}
+  - {name: 🇨🇳 V1-台湾, server: 5a2d21a9f1921bd5b2971c0738a400e9.v1.cac.node-is.green, port: 40264, type: trojan, password: 7bd8bd80-0be5-4299-8a2c-8fafd4c247df, sni: tw1.speedtest.net, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.44.154:443, server: 162.159.44.154, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🏳️‍🌈 日本-OS2-6-流量倍率:1.0, server: os2-6.nrojat.com, port: 443, type: trojan, password: EJBsFzWnEgXZnmzHq8, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.153.68:443, server: 162.159.153.68, port: 443, type: trojan, password: tg-dns68, sni: vip.putata.eu.org, skip-cert-verify: false}
@@ -124,8 +123,7 @@
   - {name: 🇹🇭 |泰国-IEPL 02, server: IEPL01.catcat-123.com, port: 20023, type: trojan, password: 44123e4a-3480-4392-978c-b4eb1b3095d7, sni: TH.oneok.link, skip-cert-verify: false}
   - {name: 🇷🇺 |俄罗斯-IEPL 01, server: IEPL01.catcat-123.com, port: 20026, type: trojan, password: 44123e4a-3480-4392-978c-b4eb1b3095d7, sni: ru.oneok.link, skip-cert-verify: false}
   - {name: 🇹🇷 |土耳其-IEPL 03, server: IEPL01.catcat-123.com, port: 20027, type: trojan, password: 44123e4a-3480-4392-978c-b4eb1b3095d7, sni: tr-03.oneok.link, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 188, server: 95.216.8.162, port: 110, type: trojan, password: kxuBkBG8GK, sni: flt2.ftpcomand.com, skip-cert-verify: false}
-  - {name: 请确认软件开启证书不安全, server: 75105ac979cd730bcb9b11e53f3cc2d3.v1.cac.node-is.green, port: 41989, type: trojan, password: 7bd8bd80-0be5-4299-8a2c-8fafd4c247df, sni: hk12.speedtest.net, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 196, server: 95.216.8.162, port: 110, type: trojan, password: kxuBkBG8GK, sni: flt2.ftpcomand.com, skip-cert-verify: false}
   - {name: 🇸🇬 |新加坡-IEPL 03, server: IEPL01.catcat-123.com, port: 20040, type: trojan, password: 44123e4a-3480-4392-978c-b4eb1b3095d7, sni: SG-IEPL.oneok.link, skip-cert-verify: false}
   - {name: 🇨🇳 |台湾-IEPL 02, server: IEPL01.catcat-123.com, port: 20044, type: trojan, password: 44123e4a-3480-4392-978c-b4eb1b3095d7, sni: hinet-01.oneok.link, skip-cert-verify: false}
   - {name: 🇲🇾 |马来西亚-IEPL 02, server: IEPL01.catcat-123.com, port: 20047, type: trojan, password: 44123e4a-3480-4392-978c-b4eb1b3095d7, sni: my.oneok.link, skip-cert-verify: false}
@@ -139,7 +137,7 @@
   - {name: XX 12, server: www.csgo.com, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: VL-0809-058, server: yecaoyun.com, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: XX 13, server: nikon.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
-  - {name: ChatGPT 🏁 ZZ_1110, server: 185.180.13.70, port: 43118, type: trojan, password: ypDt8RkT7J, skip-cert-verify: false}
+  - {name: ChatGPT 🏁 ZZ_1107, server: 185.180.13.70, port: 43118, type: trojan, password: ypDt8RkT7J, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.26.3.36:443, server: 104.26.3.36, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: All--@V2ray_Alpha-16, server: 23spt.pages.dev, port: 443, type: trojan, password: 89b3cbba-e6ac-485a-9481-976a0415eab9, sni: 23sPT.pAGEs.dEV, skip-cert-verify: false}
   - {name: XX 14, server: 104.17.61.6, port: 443, type: trojan, password: f0eb8c92ce8946aaba856569cff1a16b, sni: jobscareerforstudent.com, skip-cert-verify: false}
@@ -147,20 +145,21 @@
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.64.35.176:443, server: 172.64.35.176, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🇭🇰 |香港-中转 03, server: CN-CQCM.catcat-123.com, port: 9135, type: trojan, password: c03b5a06-cc76-4b47-af5f-5d1159892e6d, sni: hkbn-02.oneok.link, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-108.162.195.148:443, server: 108.162.195.148, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 69, server: 95.216.243.183, port: 110, type: trojan, password: XslctYye3P, sni: flt1.ftpcomand.com, skip-cert-verify: false}
-  - {name: 🇨🇦 V1-加拿大, server: da650af1622e8f5a60ca4243a0b6d582.v1.cac.node-is.green, port: 41828, type: trojan, password: 7bd8bd80-0be5-4299-8a2c-8fafd4c247df, sni: ca1.speedtest.net, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 73, server: 95.216.243.183, port: 110, type: trojan, password: XslctYye3P, sni: flt1.ftpcomand.com, skip-cert-verify: false}
   - {name: 🇺🇸 美国-107.173.15.52-6396, server: tj1.dalazhi.eu.org, port: 443, type: trojan, password: d256e73b-8259-490a-aeb5-23f6a3636a1a, skip-cert-verify: false}
   - {name: VL-0809-034, server: ipinfo.in, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🇺🇸 United States 6, server: 162.159.134.234, port: 443, type: trojan, password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba, sni: de1.trojanvpn.de, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.19.171.9:443, server: 104.19.171.9, port: 443, type: trojan, password: 984e400bf5d541b7b0815913fe0c432a, sni: jobscareerfortoday.com, skip-cert-verify: false}
+  - {name: سرور 8 | Aba-11| MTSRVRS, server: 18.175.15.45, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.66.44.86:443, server: 172.66.44.86, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: XX 15, server: 104.18.12.229, port: 8443, type: trojan, password: Watashi_VPN, sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir, skip-cert-verify: false}
   - {name: XX 16, server: 162.159.153.2, port: 443, type: trojan, password: 242a3d8eee5e4ed1a6bfa4141d549a25, sni: jobscareerforlawyers.com, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.67.130.66:443, server: 172.67.130.66, port: 443, type: trojan, password: trojan, sni: test-a23.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.66.47.100:2053, server: 172.66.47.100, port: 2053, type: trojan, password: bpb-trojan, sni: bPB-worker-PANeL1-e4p.paGes.DeV, skip-cert-verify: false}
+  - {name: 🇸🇬 出现问题请先更新订阅！！！, server: e47b21b5d1bb800404b0b7bf3ee7b911.v1.cac.node-is.green, port: 41845, type: trojan, password: 7bd8bd80-0be5-4299-8a2c-8fafd4c247df, sni: hk12.speedtest.net, skip-cert-verify: false}
   - {name: TR-WS-NONE 🏴‍☠️ NA-104.17.147.22:2095, server: 104.17.147.22, port: 2095, type: trojan, password: aa81d044-0e0a-5b01-a6d7-3981ed218497, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.16.159.4:443, server: 104.16.159.4, port: 443, type: trojan, password: b4e8771997c94732acbc9ec4d19c2589, sni: bangladeshipatri.com, skip-cert-verify: false}
-  - {name: TR-WS-TLS 🏴‍☠️ NA-172.66.47.100:443, server: 172.66.47.100, port: 443, type: trojan, password: 4045e84e-5e3c-4f70-8ff5-c1097882a55a, sni: BPb-WOrKeR-paneL1-e4P.PAGES.DEV, skip-cert-verify: false}
+  - {name: TR-WS-TLS 🏴‍☠️ NA-172.66.47.100:443, server: 172.66.47.100, port: 443, type: trojan, password: 4045e84e-5e3c-4f70-8ff5-c1097882a55a, sni: bpb-wOrkeR-PANEl1-E4P.PaGeS.Dev, skip-cert-verify: false}
   - {name: TR-TCP-NA 🏴‍☠️ NA-172.67.181.209:443, server: 172.67.181.209, port: 443, type: trojan, password: blue2024, sni: ta.promote.icu, skip-cert-verify: false}
   - {name: XX 17, server: 104.19.171.2, port: 443, type: trojan, password: 984e400bf5d541b7b0815913fe0c432a, sni: jobscareertoday.com, skip-cert-verify: false}
   - {name: 🇺🇸 美国+V2CROSS.COM, server: 65.75.194.43, port: 10511, type: trojan, password: 95b, sni: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com, skip-cert-verify: false}
@@ -181,7 +180,7 @@
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.17.215.2:443, server: 104.17.215.2, port: 443, type: trojan, password: 669d0ac7b5b64ebbb1abb75d5d540a5c, sni: jobscareerforstudent.com, skip-cert-verify: false}
   - {name: 🇺🇸 United States 8, server: 162.159.136.234, port: 2083, type: trojan, password: qG9K8AGnn9XH5jUqeFu96g, sni: cdn13.cdn2cdn.com, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-108.162.195.159:443, server: 108.162.195.159, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 171, server: www.speedtest.net, port: 443, type: trojan, password: bpb-trojan, sni: bpB-wORkeR-pANEl-ay6.pages.deV, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 179, server: www.speedtest.net, port: 443, type: trojan, password: bpb-trojan, sni: bpB-wORkeR-pANEl-ay6.pages.deV, skip-cert-verify: false}
   - {name: XX 20, server: 172.66.47.7, port: 443, type: trojan, password: auto, sni: fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org, skip-cert-verify: false}
   - {name: 🇺🇸 美国-23.247.137.70-4032, server: 23.247.137.70, port: 3389, type: trojan, password: d4e41ff772c7fd45, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.18.35:443, server: 104.20.18.35, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
@@ -207,6 +206,7 @@
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.152.143:443, server: 162.159.152.143, port: 443, type: trojan, password: tg-dns68, sni: vip.putata.eu.org, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.19.39.99:443, server: 104.19.39.99, port: 443, type: trojan, password: tg-dns68, sni: vip.putata.eu.org, skip-cert-verify: false}
   - {name: 🇯🇵 日本-74.226.136.204-3551, server: us01.trojanyyds.xyz, port: 443, type: trojan, password: cd41b9d7-df15-46ad-a778-257b0851525a, skip-cert-verify: false}
+  - {name: 🇫🇷 TR-TCP-TLS 法国-13.39.117.64:22222, server: 13.39.117.64, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.17.97.5:2053, server: 104.17.97.5, port: 2053, type: trojan, password: channel-daily-configs, sni: kanale-daily-configs.blackoutconnection.ir, skip-cert-verify: false}
   - {name: XX 22, server: comicabc.com, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🇳🇱 The Netherlands, server: 188.114.96.3, port: 2083, type: trojan, password: qG9K8AGnn9XH5jUqeFu96g, sni: cdn13.cdn2cdn.com, skip-cert-verify: false}
@@ -216,18 +216,17 @@
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.17.232:443, server: 104.20.17.232, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.152.149:443, server: 162.159.152.149, port: 443, type: trojan, password: tg-dns68, sni: vip.putata.eu.org, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.18.34.21:2053, server: 104.18.34.21, port: 2053, type: trojan, password: bpb-trojan, sni: bpB-worKER-paneL1-e4p.pAGes.dEV, skip-cert-verify: false}
-  - {name: 🇭🇰 香港 免费节点01, server: freehk01.jd0001.top, port: 12256, type: trojan, password: 922a49fd-35cc-3dd1-acab-2a2bb8bd7432, sni: freehk01.jd0001.top, skip-cert-verify: false}
   - {name: TR-TCP-NA 🏴‍☠️ NA-172.64.35.188:443, server: 172.64.35.188, port: 443, type: trojan, password: blue2024, sni: ta.promote.icu, skip-cert-verify: false}
   - {name: XX 24, server: 162.159.36.104, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.20.219:443, server: 104.20.20.219, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🇺🇸 TR-TCP-NA 美国-34.199.116.49:443, server: 34.199.116.49, port: 443, type: trojan, password: !<str> 3648425794742788096, skip-cert-verify: false}
   - {name: TR-TCP-NA 🏴‍☠️ NA-172.64.35.187:443, server: 172.64.35.187, port: 443, type: trojan, password: blue2024, sni: ta.promote.icu, skip-cert-verify: false}
-  - {name: TR-WS-TLS 🏴‍☠️ NA-172.67.161.104:443, server: 172.67.161.104, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: 172.67.161.104, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.18.123:443, server: 104.20.18.123, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-NONE 🏴‍☠️ NA-104.21.3.233:8880, server: 104.21.3.233, port: 8880, type: trojan, password: f0d584bc-342f-4443-ba24-79e4d0e504b1, skip-cert-verify: false}
   - {name: 🇯🇵 日本-74.226.136.204-3894, server: in01.trojanyyds.xyz, port: 443, type: trojan, password: cd41b9d7-df15-46ad-a778-257b0851525a, skip-cert-verify: false}
   - {name: TR-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.17.147.22:2052, server: 104.17.147.22, port: 2052, type: trojan, password: 4b0915d7-8544-5d48-946a-a708d7288447, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 339, server: 162.159.152.61, port: 443, type: trojan, password: tg-dns68, sni: vip.putata.eu.org, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 349, server: 162.159.152.61, port: 443, type: trojan, password: tg-dns68, sni: vip.putata.eu.org, skip-cert-verify: false}
   - {name: XX 25, server: 104.16.192.148, port: 443, type: trojan, password: 2e3562a819634de686ade78e434c0963, sni: jobscareerforstudent.com, skip-cert-verify: false}
   - {name: 🇸🇬 |新加坡-进阶IEPL 02, server: IEPL03.catcat-123.com, port: 20060, type: trojan, password: c03b5a06-cc76-4b47-af5f-5d1159892e6d, sni: SG-IEPL.oneok.link, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.25.254.4:2087, server: 104.25.254.4, port: 2087, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
@@ -240,10 +239,9 @@
   - {name: 🇯🇵 日本_Osaka, server: 150.230.7.216, port: 443, type: trojan, password: NISHIKUITAN222, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.21.69.44:2096, server: 104.21.69.44, port: 2096, type: trojan, password: b12f4be0-e874-568e-954f-942dcc3a67e9, sni: trojan.trojan0.woRkeRS.deV, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.64.146.66:8443, server: 172.64.146.66, port: 8443, type: trojan, password: join-bede-daily-configs, sni: kanale-daily-configs.blackoutconnection.ir, skip-cert-verify: false}
-  - {name: 🇭🇰 香港03-0.01×, server: tw1-vds8.anyhk.co, port: 20298, type: trojan, password: 64f33df2-4f9d-4cf3-bb69-b82b08cf149a, sni: sale.alibaba.com, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.152.66:443, server: 162.159.152.66, port: 443, type: trojan, password: tg-dns68, sni: vip.putata.eu.org, skip-cert-verify: false}
+  - {name: 🇭🇰 香港 免费节点01, server: freehk01.jd0001.top, port: 10862, type: trojan, password: 922a49fd-35cc-3dd1-acab-2a2bb8bd7432, sni: freehk01.jd0001.top, skip-cert-verify: false}
   - {name: 🇯🇵 TR-TCP-TLS 日本-172.207.126.183:443, server: 172.207.126.183, port: 443, type: trojan, password: af4dc66a-ec88-4057-9e46-777b584577f7, sni: sg.mjt001.com, skip-cert-verify: false}
-  - {name: 🇰🇷 韩国 免费节点01, server: freehr01.jd0001.top, port: 15140, type: trojan, password: 922a49fd-35cc-3dd1-acab-2a2bb8bd7432, sni: freehr01.jd0001.top, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.64.35.154:443, server: 172.64.35.154, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-TCP-NA 🏴‍☠️ NA-104.18.160.63:443, server: 104.18.160.63, port: 443, type: trojan, password: blue2024, sni: ta.promote.icu, skip-cert-verify: false}
   - {name: 🇭🇰 香港-47.243.65.13-2637, server: trld.ballistics.top, port: 443, type: trojan, password: 39386ab3-db28-468f-b87b-471f4ab7ca1c, sni: trld.ballistics.top, skip-cert-verify: false}
@@ -270,7 +268,7 @@
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.64.146.66:443, server: 172.64.146.66, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 中国-183.236.51.104-3814, server: official.tokyometropolis.chernigov.ua, port: 2053, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.18.12.229:2087, server: 104.18.12.229, port: 2087, type: trojan, password: DailyConfigs, sni: kanale-daily-configs.blackoutconnection.ir, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 75, server: tubular.wireshop.net, port: 443, type: trojan, password: Z3FSA9weaaRYpN89weaaRYpN89weaaRYpN80CDYFOxS5TSBqlCyAaXzaXzc7ZpngISBqlCyAaXzc7Zp, sni: tubular.wireshop.net, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 79, server: tubular.wireshop.net, port: 443, type: trojan, password: Z3FSA9weaaRYpN89weaaRYpN89weaaRYpN80CDYFOxS5TSBqlCyAaXzaXzc7ZpngISBqlCyAaXzc7Zp, sni: tubular.wireshop.net, skip-cert-verify: false}
   - {name: 中国-183.240.139.235-3679, server: official.taipeicitygovernment.org.ua, port: 8443, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.18.124.198:443, server: 104.18.124.198, port: 443, type: trojan, password: 53027f0f-2581-469a-a802-825d46f37cda, sni: a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.17.215.18:443, server: 104.17.215.18, port: 443, type: trojan, password: 4732adfa16c6450bbef87264e41332db, sni: jobscareerforstudent.com, skip-cert-verify: false}
@@ -280,40 +278,38 @@
   - {name: 🇺🇸 美国+CloudFlare节点, server: 108.162.193.110, port: 443, type: trojan, password: Trevely, sni: trojan.trevely.us.kg, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:2087, server: 172.67.204.84, port: 2087, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
   - {name: WiFi-@V2ray_Alpha-14, server: www.speedtest.net, port: 2052, type: trojan, password: cf43996d-cc45-458e-87ac-c9c933c9ed3e, skip-cert-verify: false}
-  - {name: 🇺🇸 美国_1005, server: id-full.privateip.net, port: 443, type: trojan, password: f3082a98-5936-4d31-a6f8-c9da3b9cf457, skip-cert-verify: false}
-  - {name: 🇸🇬 V1-新加坡, server: 4fc1b836857bc0d757bdc5b4328e6650.v1.cac.node-is.green, port: 47170, type: trojan, password: 7bd8bd80-0be5-4299-8a2c-8fafd4c247df, sni: sg1.speedtest.net, skip-cert-verify: false}
+  - {name: 🇺🇸 美国_990, server: id-full.privateip.net, port: 443, type: trojan, password: f3082a98-5936-4d31-a6f8-c9da3b9cf457, skip-cert-verify: false}
   - {name: 🏳️‍🌈 澳大利亚-AU1-3-流量倍率:1.0, server: au1-3.nrojat.com, port: 443, type: trojan, password: EJBsFzWnEgXZnmzHq8, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 130, server: www.wto.org, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 137, server: www.wto.org, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.44.110:443, server: 162.159.44.110, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.18.38.122:8443, server: 104.18.38.122, port: 8443, type: trojan, password: Watashi_VPN, sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.66.44.156:443, server: 172.66.44.156, port: 443, type: trojan, password: bpb-trojan, sni: BPB-wOrkeR-pANel1-E4P.pageS.DeV, skip-cert-verify: false}
   - {name: 🇺🇸 United States 9, server: 172.67.204.84, port: 443, type: trojan, password: 6008202d-f9b4-4068-890b-298835d7a77a, sni: fr1.trojanvpn.de, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 68, server: ihave.baselinux.net, port: 39257, type: trojan, password: WyYdHzq88EQJVVThgpupm3wCKVD44jtN, sni: ihave.baselinux.net, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 72, server: ihave.baselinux.net, port: 39257, type: trojan, password: WyYdHzq88EQJVVThgpupm3wCKVD44jtN, sni: ihave.baselinux.net, skip-cert-verify: false}
   - {name: 中国-183.236.51.104-3952, server: official.tokyometropolis.kiev.ua, port: 2053, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.18.26.94:8443, server: 104.18.26.94, port: 8443, type: trojan, password: Watashi_VPN, sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir, skip-cert-verify: false}
   - {name: 🇫🇷 TR-TCP-TLS 法国-13.37.208.64:22222, server: 13.37.208.64, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: TR-TCP-NA 🏴‍☠️ NA-172.64.35.194:443, server: 172.64.35.194, port: 443, type: trojan, password: blue2024, sni: ta.promote.icu, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.20.229:443, server: 104.20.20.229, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 129, server: www.digitalocean.com, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 136, server: www.digitalocean.com, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: XX 30, server: 104.18.22.19, port: 443, type: trojan, password: 2cba4104747d49d18319e5ade1b93ab5, sni: jobscareerforstudent.com, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.17.147.22:2053, server: 104.17.147.22, port: 2053, type: trojan, password: bpb-trojan, sni: bPB-worker-PANeL1-e4p.paGes.DeV, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.66.44.106:8443, server: 172.66.44.106, port: 8443, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
   - {name: XX 31, server: 172.64.201.25, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
-  - {name: 🇸🇬 新加坡 免费节点01, server: freesg01.jd0001.top, port: 12161, type: trojan, password: 922a49fd-35cc-3dd1-acab-2a2bb8bd7432, sni: freesg01.jd0001.top, skip-cert-verify: false}
   - {name: XX 32, server: www.4chan.org, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: dalazhi@gmail.com-Trojan_gRPC, server: cf.dalazhi.eu.org, port: 443, type: trojan, password: 4807b8ab-d74a-445e-9556-45a7ace4f6d6, sni: tj2.dalazhi.eu.org, skip-cert-verify: false}
-  - {name: 🇫🇷 TR-TCP-TLS 法国-13.39.119.254:22222, server: 13.39.119.254, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: سرور 13 | Aba-11| MTSRVRS, server: 13.39.119.254, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: 🇺🇸 TR-WS-TLS 美国-159.112.235.48:2083, server: 159.112.235.48, port: 2083, type: trojan, password: bpb-trojan, sni: 403b3611-99bC-43B7-88d7-26ed5d0825A9-3.PAGes.dEv, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.18.37.111:443, server: 104.18.37.111, port: 443, type: trojan, password: bpb-trojan, sni: mindrOOm-5cz.pAgEs.dEV, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 50, server: pplaca05.top, port: 443, type: trojan, password: NUeBvQHox0BmnHpu, sni: pplaca05.top, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 53, server: pplaca05.top, port: 443, type: trojan, password: NUeBvQHox0BmnHpu, sni: pplaca05.top, skip-cert-verify: false}
   - {name: 🏳️‍🌈 日本-TY2-2-流量倍率:1.0, server: ty2-2.nrojat.com, port: 443, type: trojan, password: EJBsFzWnEgXZnmzHq8, skip-cert-verify: false}
   - {name: 🇺🇸 美国 7, server: 166.0.145.209, port: 30553, type: trojan, password: CMLiu, sni: aliorg.filegear-sg.me, skip-cert-verify: false}
   - {name: XX 33, server: bowen.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 70, server: 95.216.243.26, port: 110, type: trojan, password: XslctYye3P, sni: flt1.ftpcomand.com, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 74, server: 95.216.243.26, port: 110, type: trojan, password: XslctYye3P, sni: flt1.ftpcomand.com, skip-cert-verify: false}
   - {name: 🇷🇺 俄罗斯-45.147.200.44-2634, server: kaizen-ru-2.mielink-dns2.com, port: 443, type: trojan, password: 265f092f-418b-30c9-a479-4800fd44dd19mielink, sni: $paydiu.com, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.66.44.150:443, server: 172.66.44.150, port: 443, type: trojan, password: bf7e1009-1574-44f7-86df-6cbecd338477, sni: pardazeshvpn-tg18.pages.dev, skip-cert-verify: false}
   - {name: 🇨🇿 捷克-92.118.149.85-3650, server: 92.118.149.85, port: 443, type: trojan, password: 3gLlCYBipVwr6Y5F, skip-cert-verify: false}
-  - {name: 🇩🇪 德国_409, server: 139.162.158.172, port: 443, type: trojan, password: 665c944d-047d-4659-80d5-3eaac70241a9, skip-cert-verify: false}
+  - {name: 🇩🇪 德国_408, server: 139.162.158.172, port: 443, type: trojan, password: 665c944d-047d-4659-80d5-3eaac70241a9, skip-cert-verify: false}
   - {name: 🇯🇵 日本-74.226.136.204-6387, server: hk01.trojanyyds.xyz, port: 443, type: trojan, password: 9bb27128-e6d2-4cac-bbd3-beb46c4417f8, skip-cert-verify: false}
   - {name: 🇺🇸 |美国-IEPL 01 3, server: IEPL02.catcat-123.com, port: 20007, type: trojan, password: 44123e4a-3480-4392-978c-b4eb1b3095d7, sni: us-02.oneok.link, skip-cert-verify: false}
   - {name: 🇯🇵 |日本-IEPL 02 2, server: IEPL02.catcat-123.com, port: 20009, type: trojan, password: 44123e4a-3480-4392-978c-b4eb1b3095d7, sni: JP-02.oneok.link, skip-cert-verify: false}
@@ -325,9 +321,10 @@
   - {name: 🇬🇧 英国-132.145.51.172-3739, server: 132.145.51.172, port: 443, type: trojan, password: 02e653c9-7c93-46a9-999d-11834bd0c577, skip-cert-verify: false}
   - {name: 🇺🇸 United States 10, server: 162.159.135.234, port: 2083, type: trojan, password: qG9K8AGnn9XH5jUqeFu96g, sni: cdn13.cdn2cdn.com, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.66.47.23:443, server: 172.66.47.23, port: 443, type: trojan, password: 38720105-063f-40f5-a5eb-f3198b9b617d, sni: aksnmaioas.pages.dev, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 385, server: 207.211.215.169, port: 43118, type: trojan, password: ypDt8RkT7J, sni: tpmwf.phooeyunfold.com, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 395, server: 207.211.215.169, port: 43118, type: trojan, password: ypDt8RkT7J, sni: tpmwf.phooeyunfold.com, skip-cert-verify: false}
+  - {name: 🇭🇰 香港TROJAN直连 0.01x, server: 0db4279a775961467f6348e6324c0d0b.node.tro.node-is.green, port: 40485, type: trojan, password: 7f1ab4bf-f28c-405b-afcc-0bc780358c2a, sni: data.bilibili.com, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.67.64.148:443, server: 172.67.64.148, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
-  - {name: _370, server: 138.199.23.100, port: 43118, type: trojan, password: ypDt8RkT7J, skip-cert-verify: false}
+  - {name: _374, server: 138.199.23.100, port: 43118, type: trojan, password: ypDt8RkT7J, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-103.160.204.59:443, server: 103.160.204.59, port: 443, type: trojan, password: blue2024, sni: ta.promote.icu, skip-cert-verify: false}
   - {name: 中国-183.240.139.235-3612, server: official.taipeicitygovernment.kiev.ua, port: 8443, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.17.142.12:443, server: 104.17.142.12, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
@@ -365,8 +362,9 @@
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.16.159.7:443, server: 104.16.159.7, port: 443, type: trojan, password: 4732adfa16c6450bbef87264e41332db, sni: bangladeshipatri.com, skip-cert-verify: false}
   - {name: 🇺🇸 美国 8, server: 198.62.62.156, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.18.24.92:443, server: 104.18.24.92, port: 443, type: trojan, password: e8105dfd24414268b6c7652c63731097, sni: avianrecruit.com, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: 173.245.58.34, port: 2096, type: trojan, password: DUvWfvC7xH, sni: my1.gjgjhjvjjjjgjbvxhkinkhgijmvy02.cfd, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 173.245.58.34, port: 2096, type: trojan, password: DUvWfvC7xH, sni: my1.gjgjhjvjjjjgjbvxhkinkhgijmvy02.cfd, skip-cert-verify: false}
   - {name: All--@V2ray_Alpha-19, server: aksnmaioas.pages.dev, port: 443, type: trojan, password: 38720105-063f-40f5-a5eb-f3198b9b617d, sni: aksnmaioas.pages.dev, skip-cert-verify: false}
+  - {name: 🇩🇪 TR-TCP-TLS 德国-3.74.23.153:22222, server: 3.74.23.153, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.18.13.229:2053, server: 104.18.13.229, port: 2053, type: trojan, password: Watashi_VPN, sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.66.47.151:443, server: 172.66.47.151, port: 443, type: trojan, password: a64f0cea-ca89-40e6-b316-b3badff1eb90, sni: iSaA1.paGes.DEv, skip-cert-verify: false}
   - {name: 🇸🇪 TR-TCP-TLS 瑞典-13.61.55.82:22222, server: 13.61.55.82, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
@@ -379,7 +377,6 @@
   - {name: 🇲🇴 |澳门-IEPL 02 2, server: IEPL02.catcat-123.com, port: 20069, type: trojan, password: 44123e4a-3480-4392-978c-b4eb1b3095d7, sni: mo.oneok.link, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.67.72.18:443, server: 172.67.72.18, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.17.147.77:443, server: 104.17.147.77, port: 443, type: trojan, password: 71409d3e488548e8bb076d229778f008, sni: bangladeshipatri.com, skip-cert-verify: false}
-  - {name: 🇸🇬 出现问题请先更新订阅！！！, server: 547216a5540aeffedf3906a3c4227024.v1.cac.node-is.green, port: 41449, type: trojan, password: 7bd8bd80-0be5-4299-8a2c-8fafd4c247df, sni: hk12.speedtest.net, skip-cert-verify: false}
   - {name: 🏳️‍🌈 日本-OS2-4-流量倍率:1.0, server: os2-4.nrojat.com, port: 443, type: trojan, password: EJBsFzWnEgXZnmzHq8, skip-cert-verify: false}
   - {name: 🇭🇰 |香港-中转 03 2, server: CN-CQCM.catcat-123.com, port: 9135, type: trojan, password: 2db71c8f-b7d3-4272-b868-2f7c92b395d1, sni: hkbn-02.oneok.link, skip-cert-verify: false}
   - {name: XX 38, server: 104.21.50.74, port: 443, type: trojan, password: auto, sni: esetsecuritylicense.tobavo5084.workers.dev, skip-cert-verify: false}
@@ -387,19 +384,22 @@
   - {name: 🇭🇰 TR-TCP-TLS 香港-91.199.84.195:16212, server: 91.199.84.195, port: 16212, type: trojan, password: 9ff83a73-c9da-4233-a9e2-7fa9b83b5f75, sni: data.steamdownload.top, skip-cert-verify: false}
   - {name: 🇯🇵 日本-74.226.136.204-6390, server: hk04.trojanyyds.xyz, port: 443, type: trojan, password: 9bb27128-e6d2-4cac-bbd3-beb46c4417f8, skip-cert-verify: false}
   - {name: 🇨🇳 台湾, server: 35.201.203.106, port: 443, type: trojan, password: CMLiu, sni: aliorg.filegear-sg.me, skip-cert-verify: false}
+  - {name: 🇮🇪 TR-TCP-TLS 爱尔兰IE-52.212.99.113:22222, server: 52.212.99.113, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: RELAY-104.21.12.87-10105, server: 104.21.12.87, port: 443, type: trojan, password: 0b65bb06-6b28-487a-8e3c-820dda51e977, sni: series-v1.samanehha.co, skip-cert-verify: false}
   - {name: 🇨🇦 加拿大-148.113.141.99-1493, server: 148.113.141.99, port: 443, type: trojan, password: HdsUZmsHQW, skip-cert-verify: false}
   - {name: 🇫🇷 法国-54.36.173.159-6275, server: 54.36.173.159, port: 443, type: trojan, password: e4f288433b, sni: pol1.connecton.surf, skip-cert-verify: false}
-  - {name: TR-WS-TLS 🏴‍☠️ NA-104.16.25.46:443, server: 104.16.25.46, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: t.me/peterjest, server: 104.16.25.46, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.67.198.177:443, server: 172.67.198.177, port: 443, type: trojan, password: 9yu6m5okr, sni: production.tj.ojan.workers.dev, skip-cert-verify: false}
   - {name: 🇭🇰 香港02-0.01× 2, server: ent1.imyourdaddy.top, port: 10001, type: trojan, password: f403ae92-ab07-4199-bdf1-f8701d164529, sni: sale.alibaba.com, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.22.27:443, server: 104.20.22.27, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: WiFi-@V2ray_Alpha-12, server: www.speedtest.net, port: 2052, type: trojan, password: 012116a8-7d92-4c5f-b3f2-13a0e9b37ba9, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.66.47.106:443, server: 172.66.47.106, port: 443, type: trojan, password: bf7e1009-1574-44f7-86df-6cbecd338477, sni: pardazeshvpn-tg18.pages.dev, skip-cert-verify: false}
+  - {name: 🇭🇰 香港03-0.01×, server: ent1.imyourdaddy.top, port: 58249, type: trojan, password: 64f33df2-4f9d-4cf3-bb69-b82b08cf149a, sni: sale.alibaba.com, skip-cert-verify: false}
   - {name: "🇺🇸 [02-24]--美国-070-hdfy7d1.jahangirkh.eu.org", server: hdfy7d1.jahangirkh.eu.org, port: 443, type: trojan, password: 订阅内容解析错误01596265-168b-46a7-bcb7-25662c7a9546, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.22.232:443, server: 104.20.22.232, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🇨🇾 TR-TCP-NA 塞浦路斯-195.85.59.95:443, server: 195.85.59.95, port: 443, type: trojan, password: blue2024, sni: ta.promote.icu, skip-cert-verify: false}
   - {name: XX 39, server: 188.114.98.229, port: 2053, type: trojan, password: bpb-trojan, sni: bpB-worKER-paneL1-e4p.pAGes.dEV, skip-cert-verify: false}
+  - {name: 🇮🇪 TR-TCP-TLS 爱尔兰IE-54.155.94.249:22222, server: 54.155.94.249, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: WiFi-@V2ray_Alpha-15, server: www.speedtest.net, port: 2052, type: trojan, password: 2fe62d75-af36-4f84-97cb-c0c71691be1b, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.21.99:443, server: 104.20.21.99, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🇵🇱 波兰, server: 51.83.186.142, port: 80, type: trojan, password: fa0e4e7a-db70-4aeb-8104-e3120d9259cd, sni: pl1.trojanvh.xyz, skip-cert-verify: false}
@@ -412,10 +412,11 @@
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.66.44.128:443, server: 172.66.44.128, port: 443, type: trojan, password: tg-dns68, sni: vip.putata.eu.org, skip-cert-verify: false}
   - {name: WiFi-@V2ray_Alpha-13, server: www.speedtest.net, port: 2052, type: trojan, password: 4dcbf542-6f9f-4c87-a96d-fa66e7a03d2b, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.66.47.33:443, server: 172.66.47.33, port: 443, type: trojan, password: bba5ce00-09e4-4fce-8d26-35db5b4e38d4, sni: cfpage-39t.pages.dev, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 184, server: 104.17.148.22, port: 443, type: trojan, password: cassiusvpn, sni: telegram----cassiusvpn----2215456487655561231564648465465223132.singerc31.workers.dev, skip-cert-verify: false}
   - {name: 🏳️‍🌈 日本-TY2-7-流量倍率:1.0, server: ty2-7.nrojat.com, port: 443, type: trojan, password: EJBsFzWnEgXZnmzHq8, skip-cert-verify: false}
+  - {name: سرور 27 | Aba-11| MTSRVRS, server: 3.254.44.30, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.21.81.225:443, server: 104.21.81.225, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.21.186:443, server: 104.20.21.186, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
-  - {name: 🇭🇰 香港03-0.01× 2, server: tw1-vds8.anyhk.co, port: 20298, type: trojan, password: dc6b149d-dd93-458b-aa30-3185da201340, sni: sale.alibaba.com, skip-cert-verify: false}
   - {name: 🇺🇸 美国_147, server: ip.sb, port: 443, type: trojan, password: NISHIKUITAN222, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.133.85:443, server: 162.159.133.85, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🇬🇧 英国-146.19.230.241-3594, server: 146.19.230.241, port: 443, type: trojan, password: xxoo, skip-cert-verify: false}
@@ -436,16 +437,14 @@
   - {name: 🇺🇸 美国 10, server: 104.18.221.228, port: 443, type: trojan, password: NISHIKUITAN222, skip-cert-verify: false, network: ws, ws-opts: {path: "%2F"}}
   - {name: TR-TCP-NA 🏴‍☠️ NA-104.19.142.99:443, server: 104.19.142.99, port: 443, type: trojan, password: blue2024, sni: ta.promote.icu, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.128.233:8443, server: 162.159.128.233, port: 8443, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
-  - {name: 🇸🇪 TR-TCP-TLS 瑞典-51.21.141.231:22222, server: 51.21.141.231, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: XX 40, server: lewis.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🇩🇪 TR-TCP-TLS 德国-52.58.64.85:22222, server: 52.58.64.85, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: XX 41, server: www.ipchicken.com, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
-  - {name: 🇨🇳 台湾 免费节点01, server: freetw01.jd0001.top, port: 17275, type: trojan, password: 922a49fd-35cc-3dd1-acab-2a2bb8bd7432, sni: freetw01.jd0001.top, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.18.218.118:8443, server: 104.18.218.118, port: 8443, type: trojan, password: VPNCSTOMIZE, sni: Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.18.72:443, server: 104.20.18.72, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: MCI-@V2ray_Alpha-11, server: www.visa.com, port: 443, type: trojan, password: 1b3b276f-44b4-4c39-bfdf-67ff6337b41f, sni: POOrIaREd--persEPolIS.pAGEs.Dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.20.213:443, server: 104.20.20.213, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
-  - {name: سرور 119 | Aba-11| MTSRVRS, server: 3.124.253.112, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 288, server: 3.124.253.112, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-188.114.97.159:2053, server: 188.114.97.159, port: 2053, type: trojan, password: bpb-trojan, sni: BPB-worKEr-pANel1-E4p.PAgES.Dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.26.13.54:443, server: 104.26.13.54, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.21.90.210:2053, server: 104.21.90.210, port: 2053, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
@@ -453,21 +452,24 @@
   - {name: 🇰🇷 TR-TCP-NA 韩国-146.56.151.232:21005, server: 146.56.151.232, port: 21005, type: trojan, password: 64f33df2-4f9d-4cf3-bb69-b82b08cf149a, sni: alibabashop.com, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.66.47.100:443 2, server: 172.66.47.100, port: 443, type: trojan, password: bpb-trojan, sni: BPB-wOrkeR-pANel1-E4P.pageS.DeV, skip-cert-verify: false}
   - {name: XX 42, server: www.iakeys.com, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 190, server: 154.197.121.253, port: 443, type: trojan, password: moist, sni: trojan.freenods.sbs, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 198, server: 154.197.121.253, port: 443, type: trojan, password: moist, sni: trojan.freenods.sbs, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.19.109:443, server: 104.20.19.109, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.64.155.209:2087, server: 172.64.155.209, port: 2087, type: trojan, password: DailyConfigs, sni: kanale-daily-configs.blackoutconnection.ir, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.20.84:443, server: 104.20.20.84, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🇩🇪 TR-TCP-TLS 德国-18.198.112.189:22222, server: 18.198.112.189, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 128, server: whatismyipaddress.com, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 26, server: 104.18.32.47, port: 2096, type: trojan, password: 754a7027-4bd3-5177-81a6-728ac05148b8, sni: www.uploadbots.WoRkerS.Dev, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 135, server: whatismyipaddress.com, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 28, server: 104.18.32.47, port: 2096, type: trojan, password: 754a7027-4bd3-5177-81a6-728ac05148b8, sni: www.uploadbots.WoRkerS.Dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.19.105:443, server: 104.20.19.105, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: 🇯🇵 V1-日本2, server: 392fa66d983f26206a1c8a17f6bc2227.v1.cac.node-is.green, port: 47561, type: trojan, password: 7bd8bd80-0be5-4299-8a2c-8fafd4c247df, sni: jp12.speedtest.net, skip-cert-verify: false}
   - {name: 🇯🇵 日本-74.226.136.204-6406, server: tw02.trojanyyds.xyz, port: 443, type: trojan, password: 8d1e94cd-23cf-4267-b630-c6894e6e1b4d, skip-cert-verify: false}
   - {name: 🇷🇺 TR-WS-TLS 俄罗斯-45.142.120.4:2096, server: 45.142.120.4, port: 2096, type: trojan, password: bpb-trojan, sni: 403B3611-99bC-43b7-88D7-26ed5d0825A9-3.PageS.DEV, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.19.103:443, server: 104.20.19.103, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.22.170:443, server: 104.20.22.170, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: MCI--@V2ray_Alpha-7, server: www.speedtest.net, port: 2052, type: trojan, password: c05ffb1d-e27c-48e5-92e1-f00dedf23013, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.44.217:443, server: 162.159.44.217, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: 🇭🇰 V1-香港2, server: 97b960be01491da95e92827ce2682cb6.v1.cac.node-is.green, port: 49271, type: trojan, password: 7bd8bd80-0be5-4299-8a2c-8fafd4c247df, sni: hk12.speedtest.net, skip-cert-verify: false}
   - {name: XX 43, server: kyree.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: 🇯🇵 日本 免费节点03, server: freejp03.jd0001.top, port: 15401, type: trojan, password: 922a49fd-35cc-3dd1-acab-2a2bb8bd7432, sni: freejp03.jd0001.top, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.18.32.47:2087, server: 104.18.32.47, port: 2087, type: trojan, password: DailyConfigs, sni: kanale-daily-configs.blackoutconnection.ir, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.153.149:443, server: 162.159.153.149, port: 443, type: trojan, password: tg-dns68, sni: vip.putata.eu.org, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.20.6:443, server: 104.20.20.6, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
@@ -503,32 +505,32 @@
   - {name: 中国-183.236.51.104-3923, server: official.tokyometropolis.odessa.ua, port: 2053, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, skip-cert-verify: false}
   - {name: 🇸🇬 新加坡_3, server: 43.153.80.208, port: 443, type: trojan, password: NISHIKUITAN222, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-108.162.195.217:443, server: 108.162.195.217, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 151, server: 104.21.77.150, port: 443, type: trojan, password: bpb-trojan, sni: 403b3611-99Bc-43b7-88D7-26ED5d0825a9-3.pAgeS.Dev, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 160, server: 104.21.77.150, port: 443, type: trojan, password: bpb-trojan, sni: 403b3611-99Bc-43b7-88D7-26ED5d0825a9-3.pAgeS.Dev, skip-cert-verify: false}
   - {name: 🇺🇸 美国-135.148.148.4-9934, server: 135.148.148.4, port: 80, type: trojan, password: ee2bccd3-0f30-42d4-86d6-3d393ad230bd, sni: telewebion.com, skip-cert-verify: false}
   - {name: 🇸🇬 TR-WS-TLS 新加坡-206.238.236.187:2096, server: 206.238.236.187, port: 2096, type: trojan, password: 0d89a36e-36bc-41d2-8bd3-bbd639991f29, sni: nicorobin.eula.cloudns.org, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.66.47.147:443, server: 172.66.47.147, port: 443, type: trojan, password: 1187ba87-8ebc-4a07-aa89-b331ed2cb356, sni: meti-u9d.pages.dev, skip-cert-verify: false}
-  - {name: t.me/peterjest, server: 104.17.64.70, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: t.me/peterjest 2, server: 104.17.64.70, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🇭🇰 TR-TCP-NA 香港-45.146.232.171:10465, server: 45.146.232.171, port: 10465, type: trojan, password: 325ba822-760d-4a51-9711-f72ba8d16933, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.22.167:443, server: 104.20.22.167, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: XX 46, server: 141.101.113.89, port: 443, type: trojan, password: Watashi_VPN, sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.19.119:443, server: 104.20.19.119, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🇸🇬 |新加坡-进阶IEPL 02 2, server: IEPL03.catcat-123.com, port: 20060, type: trojan, password: 44123e4a-3480-4392-978c-b4eb1b3095d7, sni: SG-IEPL.oneok.link, skip-cert-verify: false}
   - {name: 🇺🇸 美国 13, server: 162.159.138.55, port: 443, type: trojan, password: NISHIKUITAN222, skip-cert-verify: false, network: ws, ws-opts: {path: "%2F"}}
+  - {name: 🇯🇵 日本V1-德国, server: f06d20ea4ba1163b9e828ef0c3eaf524.v1.cac.node-is.green, port: 43762, type: trojan, password: 7bd8bd80-0be5-4299-8a2c-8fafd4c247df, sni: de1.speedtest.net, skip-cert-verify: false}
   - {name: 🏳️‍🌈 日本-TY2-5-流量倍率:1.0, server: ty2-5.nrojat.com, port: 443, type: trojan, password: EJBsFzWnEgXZnmzHq8, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-188.114.99.208:2053, server: 188.114.99.208, port: 2053, type: trojan, password: bpb-trojan, sni: BPB-worKEr-pANel1-E4p.PAgES.Dev, skip-cert-verify: false}
-  - {name: 🇺🇸 V1-美国, server: 25752a05d1815325b0cd6a9e02416c4d.v1.cac.node-is.green, port: 40667, type: trojan, password: 7bd8bd80-0be5-4299-8a2c-8fafd4c247df, sni: us1.speedtest.net, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.44.205:443, server: 162.159.44.205, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: XX 47, server: www.ipget.net, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🇺🇸 美国-135.148.148.4-5440, server: 135.148.148.4, port: 80, type: trojan, password: 892c4f6e-732b-4f71-ad04-6e77344f2d0e, sni: us3.trojanvh.xyz, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.16.134.27:2083, server: 104.16.134.27, port: 2083, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.44.202:443, server: 162.159.44.202, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
-  - {name: 🇭🇰 V1-香港2, server: 5a0d49f02705a0fb023934478aa9ec87.v1.cac.node-is.green, port: 45852, type: trojan, password: 7bd8bd80-0be5-4299-8a2c-8fafd4c247df, sni: hk12.speedtest.net, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.152.11:443, server: 162.159.152.11, port: 443, type: trojan, password: tg-dns68, sni: vip.putata.eu.org, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 126, server: silkbook.com, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 133, server: silkbook.com, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.44.209:443, server: 162.159.44.209, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.21.3.52:443, server: 104.21.3.52, port: 443, type: trojan, password: trojan, sni: test-a23.pages.dev, skip-cert-verify: false}
   - {name: TR-TCP-NA 🏴‍☠️ NA-173.245.49.162:443, server: 173.245.49.162, port: 443, type: trojan, password: blue2024, sni: ta.promote.icu, skip-cert-verify: false}
   - {name: XX 48, server: iplocation.io, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: 🇸🇬 V1-新加坡, server: 6240bf99dc8a0b79a164fdd9629f9075.v1.cac.node-is.green, port: 44122, type: trojan, password: 7bd8bd80-0be5-4299-8a2c-8fafd4c247df, sni: sg1.speedtest.net, skip-cert-verify: false}
   - {name: 🇰🇷 韩国_春川市, server: 144.24.83.39, port: 443, type: trojan, password: NISHIKUITAN222, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.66.44.101:443, server: 172.66.44.101, port: 443, type: trojan, password: 34a83286-ba4e-4f0a-ac08-77a95469eeaf, sni: pardazesh18.pages.dev, skip-cert-verify: false}
   - {name: 🇯🇵 日本-74.226.136.204-6393, server: my02.trojanyyds.xyz, port: 443, type: trojan, password: 9bb27128-e6d2-4cac-bbd3-beb46c4417f8, skip-cert-verify: false}
@@ -547,7 +549,6 @@
   - {name: 🇭🇰 |香港-中转 03 3, server: CN-CQCM.catcat-123.com, port: 9135, type: trojan, password: 44123e4a-3480-4392-978c-b4eb1b3095d7, sni: hkbn-02.oneok.link, skip-cert-verify: false}
   - {name: XX 51, server: 172.67.203.52, port: 443, type: trojan, password: auto, sni: esetsecuritylicense.tobavo5084.workers.dev, skip-cert-verify: false}
   - {name: 🇺🇸 United States 17, server: 104.21.25.193, port: 2083, type: trojan, password: 6dCf6Syv1FwpjcAoCB2vfQ, sni: cdn15.cdn2cdn.com, skip-cert-verify: false}
-  - {name: 🇯🇵 日本V1-德国, server: 2d52b433eab3e28dd8074484ddd196e7.v1.cac.node-is.green, port: 46260, type: trojan, password: 7bd8bd80-0be5-4299-8a2c-8fafd4c247df, sni: de1.speedtest.net, skip-cert-verify: false}
   - {name: 🇵🇱 波兰-51.83.186.142-4839, server: 51.83.186.142, port: 80, type: trojan, password: 555034c8-6420-45d0-893c-905c02342150, sni: pl1.trojanvh.xyz, skip-cert-verify: false}
   - {name: 🇯🇵 日本-74.226.136.204-6386, server: hk02.trojanyyds.xyz, port: 443, type: trojan, password: 9bb27128-e6d2-4cac-bbd3-beb46c4417f8, skip-cert-verify: false}
   - {name: RELAY-104.16.183.101-10146, server: 104.16.183.101, port: 443, type: trojan, password: a0514d9b-d109-47fd-b173-1e7f83268f21, sni: tws23.kallepache.store, skip-cert-verify: false}
@@ -556,12 +557,15 @@
   - {name: XX 52, server: 104.17.71.31, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-190.93.246.247:443, server: 190.93.246.247, port: 443, type: trojan, password: dba20dcb635e430fa4d3bfc303a149d2, sni: jobscareerforlawyers.com, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-188.114.96.0:443, server: 188.114.96.0, port: 443, type: trojan, password: "%61%75%74%6f", sni: tro%6aanf%72ee-%376s.%70age%73.de%76, skip-cert-verify: false}
+  - {name: 🇭🇰 香港03-0.01× 2, server: ent1.imyourdaddy.top, port: 58249, type: trojan, password: dc6b149d-dd93-458b-aa30-3185da201340, sni: sale.alibaba.com, skip-cert-verify: false}
+  - {name: 🇺🇸 V1-美国, server: 008112a13d422996b3d480f47fc8c6d5.v1.cac.node-is.green, port: 47409, type: trojan, password: 7bd8bd80-0be5-4299-8a2c-8fafd4c247df, sni: us1.speedtest.net, skip-cert-verify: false}
+  - {name: 🇸🇬 新加坡 免费节点01, server: freesg01.jd0001.top, port: 13979, type: trojan, password: 922a49fd-35cc-3dd1-acab-2a2bb8bd7432, sni: freesg01.jd0001.top, skip-cert-verify: false}
   - {name: 🇯🇵 |尼日利亚-IEPL 02 2, server: IEPL03.catcat-123.com, port: 20051, type: trojan, password: 44123e4a-3480-4392-978c-b4eb1b3095d7, sni: NG-01.oneok.link, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.26.13.31:443, server: 104.26.13.31, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.17.36.105:443, server: 104.17.36.105, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 172, server: ct.cfyun.top, port: 443, type: trojan, password: c5110090-c3a2-429e-b9b8-072b6535be1b, sni: cfus4.trojanwss.xyz, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 180, server: ct.cfyun.top, port: 443, type: trojan, password: c5110090-c3a2-429e-b9b8-072b6535be1b, sni: cfus4.trojanwss.xyz, skip-cert-verify: false}
+  - {name: 🇩🇪 TR-TCP-TLS 德国-3.77.87.65:22222, server: 3.77.87.65, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.66.44.156:2053, server: 172.66.44.156, port: 2053, type: trojan, password: bpb-trojan, sni: bPB-worker-PANeL1-e4p.paGes.DeV, skip-cert-verify: false}
-  - {name: 🇯🇵 V1-日本2, server: 1aa6e818596d671fc802af7374b4dee6.v1.cac.node-is.green, port: 48124, type: trojan, password: 7bd8bd80-0be5-4299-8a2c-8fafd4c247df, sni: jp12.speedtest.net, skip-cert-verify: false}
   - {name: 中国-183.236.51.104-3741, server: official.tokyometropolis.ivano-frankivsk.ua, port: 2053, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, skip-cert-verify: false}
   - {name: 🇸🇪 TR-TCP-TLS 瑞典-16.16.114.239:22222, server: 16.16.114.239, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: XX 53, server: 104.16.159.112, port: 443, type: trojan, password: 4aec4e7f8cf8454ea4613659822e1a61, sni: jobscareertoday.com, skip-cert-verify: false}
@@ -581,12 +585,11 @@
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.67.70.10:443, server: 172.67.70.10, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🏳️‍🌈 日本-OS1-8-流量倍率:1.0, server: os1-8.nrojat.com, port: 443, type: trojan, password: EJBsFzWnEgXZnmzHq8, skip-cert-verify: false}
   - {name: 🇺🇸 TR-WS-TLS 美国-151.101.130.219:443, server: 151.101.130.219, port: 443, type: trojan, password: Trojan-%48%71%762%72%61%79%4e%47, sni: speedtest.net, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 55, server: 104.17.147.22, port: 443, type: trojan, password: Watashi_VPN, sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir, skip-cert-verify: false}
-  - {name: 🇫🇷 TR-TCP-TLS 法国-13.37.25.230:22222, server: 13.37.25.230, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 59, server: 104.17.147.22, port: 443, type: trojan, password: Watashi_VPN, sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir, skip-cert-verify: false}
   - {name: TR-TCP-NA 🏴‍☠️ NA-104.19.159.144:443, server: 104.19.159.144, port: 443, type: trojan, password: 4aec4e7f8cf8454ea4613659822e1a61, sni: avianrecruit.com, skip-cert-verify: false}
   - {name: TR-TCP-NA 🏴‍☠️ NA-172.66.44.139:8443, server: 172.66.44.139, port: 8443, type: trojan, password: bpb-trojan, sni: AZaDneT-Hwt.pAGES.dev, skip-cert-verify: false}
   - {name: 🇪🇸 TR-WS-TLS 西班牙-185.238.228.6:443, server: 185.238.228.6, port: 443, type: trojan, password: bpb-trojan, sni: 403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv, skip-cert-verify: false}
-  - {name: t.me/peterjest 2, server: 104.21.90.210, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: TR-WS-TLS 🏴‍☠️ NA-104.21.90.210:443 2, server: 104.21.90.210, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.18.192:443, server: 104.20.18.192, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.153.178:443, server: 162.159.153.178, port: 443, type: trojan, password: tg-dns68, sni: vip.putata.eu.org, skip-cert-verify: false}
   - {name: 🇭🇰 香港-219.76.13.180-8102, server: 219.76.13.180, port: 443, type: trojan, password: ZRYSly2IRuFlgpZCaep3Ey3DDXqTDczO04aeC8F36OjaYSCABnA573wN8xxK9S, sni: httah.freetrade.link, skip-cert-verify: false}
@@ -610,22 +613,22 @@
   - {name: 🇺🇸 |美国-进阶IEPL 03 2, server: IEPL05.catcat-123.com, port: 20043, type: trojan, password: c03b5a06-cc76-4b47-af5f-5d1159892e6d, sni: us-01.oneok.link, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.18.41.190:8443, server: 104.18.41.190, port: 8443, type: trojan, password: join-bede-daily-configs, sni: kanale-daily-configs.blackoutconnection.ir, skip-cert-verify: false}
   - {name: XX 58, server: zula.ir, port: 443, type: trojan, password: Watashi_VPN, sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 350, server: 188.42.88.144, port: 8443, type: trojan, password: tvRqMFmVhZ, sni: mmd.v2rayngvz.online, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 360, server: 188.42.88.144, port: 8443, type: trojan, password: tvRqMFmVhZ, sni: mmd.v2rayngvz.online, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.66.44.141:2083, server: 172.66.44.141, port: 2083, type: trojan, password: bpb-trojan, sni: fB0887ca.BPB-WorkEr-pAnel-e3c.paGes.DeV, skip-cert-verify: false}
   - {name: TR-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.19.209.229:2052, server: 104.19.209.229, port: 2052, type: trojan, password: edcfbd77-d607-53a9-842c-32592c2504b2, skip-cert-verify: false}
   - {name: 🇯🇵 日本-133.242.55.38-0696, server: trs22.bolab.net, port: 443, type: trojan, password: 7a73f1dc97a70905870c0c0484b12145, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.64.35.217:443, server: 172.64.35.217, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: 🇭🇰 香港03-0.01× 3, server: ent1.imyourdaddy.top, port: 58249, type: trojan, password: f403ae92-ab07-4199-bdf1-f8701d164529, sni: sale.alibaba.com, skip-cert-verify: false}
   - {name: XX 59, server: 104.18.23.19, port: 443, type: trojan, password: 2cba4104747d49d18319e5ade1b93ab5, sni: jobscareerforstudent.com, skip-cert-verify: false}
   - {name: TR-TCP-NA 🏴‍☠️ NA-172.64.35.173:443, server: 172.64.35.173, port: 443, type: trojan, password: blue2024, sni: ta.promote.icu, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 21, server: 104.208.111.108, port: 443, type: trojan, password: 5f27eb67-a1ea-43a3-9a33-8d85d61b9574, sni: hknode02.oportal.cc, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 23, server: 104.208.111.108, port: 443, type: trojan, password: 5f27eb67-a1ea-43a3-9a33-8d85d61b9574, sni: hknode02.oportal.cc, skip-cert-verify: false}
   - {name: 🇺🇸 美国-149.50.68.145-0166, server: us2.chuqiangtou.net, port: 4003, type: trojan, password: TJCfE7Mx2YcA8kX8zg, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.19.222.79:443, server: 104.19.222.79, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: All--@V2ray_Alpha-21, server: bpb-worker-panel1-e4p.pages.dev, port: 443, type: trojan, password: 4045e84e-5e3c-4f70-8ff5-c1097882a55a, sni: bpb-wOrkeR-PANEl1-E4P.PaGeS.Dev, skip-cert-verify: false}
-  - {name: 🇺🇸 _US_美国, server: 3.98.16.101, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.64.150.145:443, server: 172.64.150.145, port: 443, type: trojan, password: bpb-trojan, sni: mindrOOm-5cz.pAgEs.dEV, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.17.215.8:443, server: 104.17.215.8, port: 443, type: trojan, password: 2cba4104747d49d18319e5ade1b93ab5, sni: jobscareertoday.com, skip-cert-verify: false}
   - {name: 🇺🇸 美国United States 01, server: 8.20.125.2, port: 443, type: trojan, password: 32daf1ff-4b08-4c22-b997-1c24ff34c43a, sni: trojan.dransh.org, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 170, server: bpb-worker-panel1-e4p.pages.dev, port: 2053, type: trojan, password: bpb-trojan, sni: bPB-worker-PANeL1-e4p.paGes.DeV, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 178, server: bpb-worker-panel1-e4p.pages.dev, port: 2053, type: trojan, password: bpb-trojan, sni: bPB-worker-PANeL1-e4p.paGes.DeV, skip-cert-verify: false}
   - {name: VL-0809-074, server: time.is, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🇺🇸 United States 19, server: 104.17.147.4, port: 443, type: trojan, password: 4732adfa16c6450bbef87264e41332db, sni: jobscareertoday.com, skip-cert-verify: false}
   - {name: 🇧🇷 TR-WS-TLS 巴西-185.133.35.46:443, server: 185.133.35.46, port: 443, type: trojan, password: trojan, sni: test-a23.pages.dev, skip-cert-verify: false}
@@ -633,21 +636,20 @@
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.67.173.143:443, server: 172.67.173.143, port: 443, type: trojan, password: bpb-trojan, sni: 403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.17.191:443, server: 104.20.17.191, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🇺🇸 TR-TCP-TLS 美国-3.94.40.90:22222, server: 3.94.40.90, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇫🇷 TR-TCP-TLS 法国-35.180.168.62:22222, server: 35.180.168.62, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: 🇺🇸 United States 20, server: 104.16.159.2, port: 443, type: trojan, password: cb1f26aa437d4bfa9b841d28503ce8cc, sni: jobscareerforstudent.com, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-108.162.195.202:443, server: 108.162.195.202, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🇺🇸 美国 15, server: 173.245.49.76, port: 443, type: trojan, password: NISHIKUITAN222, skip-cert-verify: false, network: ws, ws-opts: {path: "%2F"}}
-  - {name: 🇺🇸 _US_美国 2, server: 104.21.47.176, port: 443, type: trojan, password: 52701795-3c3b-46b4-b7cf-c5978b3a4cf2, sni: hdfyc1.achaemenidempireofpersia.uk, skip-cert-verify: false}
+  - {name: 🇺🇸 _US_美国, server: 104.21.47.176, port: 443, type: trojan, password: 52701795-3c3b-46b4-b7cf-c5978b3a4cf2, sni: hdfyc1.achaemenidempireofpersia.uk, skip-cert-verify: false}
   - {name: 🏳️‍🌈 日本-OS1-5-流量倍率:1.0, server: os1-5.nrojat.com, port: 443, type: trojan, password: EJBsFzWnEgXZnmzHq8, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 14, server: 172.66.44.156, port: 443, type: trojan, password: 4045e84e-5e3c-4f70-8ff5-c1097882a55a, sni: bpb-wOrkeR-PANEl1-E4P.PaGeS.Dev, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 15, server: 172.66.44.156, port: 443, type: trojan, password: 4045e84e-5e3c-4f70-8ff5-c1097882a55a, sni: bpb-wOrkeR-PANEl1-E4P.PaGeS.Dev, skip-cert-verify: false}
   - {name: 🇭🇰 香港02-0.01× 3, server: ent1.imyourdaddy.top, port: 10001, type: trojan, password: dc6b149d-dd93-458b-aa30-3185da201340, sni: sale.alibaba.com, skip-cert-verify: false}
-  - {name: ChatGPT 🏁 ZZ_1119, server: aafrtpfxr.hkl02i9zjfegelp.5xfsur8v62.gosdk.xyz, port: 27102, type: trojan, password: 1a8050cd-50d8-4b7d-a73e-193222f39822, skip-cert-verify: false}
-  - {name: 🇫🇷 TR-TCP-TLS 法国-15.236.249.253:22222, server: 15.236.249.253, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: سرور 13 | Aba-11| MTSRVRS, server: 15.188.18.102, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 125, server: rustam.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
-  - {name: 🇮🇪 TR-TCP-TLS 爱尔兰IE-54.76.222.103:22222, server: 54.76.222.103, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: ChatGPT 🏁 ZZ_1102, server: aafrtpfxr.hkl02i9zjfegelp.5xfsur8v62.gosdk.xyz, port: 27102, type: trojan, password: 1a8050cd-50d8-4b7d-a73e-193222f39822, skip-cert-verify: false}
+  - {name: سرور 143 | Aba-11| MTSRVRS, server: 15.188.18.102, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 132, server: rustam.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: XX 61, server: 104.17.215.4, port: 443, type: trojan, password: cb1f26aa437d4bfa9b841d28503ce8cc, sni: jobscareerfortoday.com, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.19.171.3:443, server: 104.19.171.3, port: 443, type: trojan, password: f0eb8c92ce8946aaba856569cff1a16b, sni: sherasheba.com, skip-cert-verify: false}
-  - {name: 🇯🇵 日本 免费节点03, server: freejp03.jd0001.top, port: 11835, type: trojan, password: 922a49fd-35cc-3dd1-acab-2a2bb8bd7432, sni: freejp03.jd0001.top, skip-cert-verify: false}
+  - {name: 🇬🇧 TR-TCP-TLS 英国-13.43.68.106:22222, server: 13.43.68.106, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.18.39.232:2083, server: 104.18.39.232, port: 2083, type: trojan, password: 89b3cbba-e6ac-485a-9481-976a0415eab9, sni: ArGodev11222.PaGes.Dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-108.162.195.205:443, server: 108.162.195.205, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🏳️‍🌈 日本-OS1-2-流量倍率:1.0, server: os1-2.nrojat.com, port: 443, type: trojan, password: EJBsFzWnEgXZnmzHq8, skip-cert-verify: false}
@@ -658,7 +660,7 @@
   - {name: 🏳️‍🌈 爱沙尼亚-EE1-1-流量倍率:0.1, server: ee1-1.nrojat.com, port: 443, type: trojan, password: EJBsFzWnEgXZnmzHq8, skip-cert-verify: false}
   - {name: 🇺🇸 United States 21, server: 104.16.159.9, port: 443, type: trojan, password: ce8b8b30ebba45f2a38dd608b85e8628, sni: bangladeshipatri.com, skip-cert-verify: false}
   - {name: 🇺🇸 美国 16, server: 172.67.148.85, port: 443, type: trojan, password: NISHIKUITAN222, skip-cert-verify: false, network: ws, ws-opts: {path: "%2F"}}
-  - {name: 🇺🇸 @Vip_Security join us - 124, server: ipv4.ip.sb, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 131, server: ipv4.ip.sb, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: XX 62, server: www.gov.se, port: 8443, type: trojan, password: Watashi_VPN, sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir, skip-cert-verify: false}
   - {name: 🇯🇵 日本-74.226.136.204-6394, server: tw01.trojanyyds.xyz, port: 443, type: trojan, password: 6a91134d-1e3f-4b63-9a46-99515cb62596, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.66.44.58:443, server: 172.66.44.58, port: 443, type: trojan, password: bc953cb6-7112-4d3c-bbf4-eaf8a0d004cb, sni: sflslf0flk0sfk0sf.pages.dev, skip-cert-verify: false}
@@ -673,7 +675,7 @@
   - {name: 🇫🇷 法国-51.159.59.186-9143, server: fr.test3.net, port: 443, type: trojan, password: 9498f3a0-2992-11ee-a4c7-1239d0255272, sni: zula.ir, skip-cert-verify: false}
   - {name: XX 63, server: www.pcmag.com, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.152.219:443, server: 162.159.152.219, port: 443, type: trojan, password: tg-dns68, sni: vip.putata.eu.org, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 172.64.35.209, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2Fb96ef9ae.trojanfree-76s.pages.dev%2F", headers: {Host: b96ef9ae.trojanfree-76s.pages.dev}}}
+  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 172.64.35.209, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2Fb96ef9ae.trojanfree-76s.pages.dev%2F", headers: {Host: b96ef9ae.trojanfree-76s.pages.dev}}}
   - {name: 🇷🇺 TR-WS-TLS 俄罗斯-194.53.53.4:443, server: 194.53.53.4, port: 443, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.19.53:443, server: 104.20.19.53, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.153.87:443, server: 162.159.153.87, port: 443, type: trojan, password: tg-dns68, sni: vip.putata.eu.org, skip-cert-verify: false}
@@ -687,6 +689,7 @@
   - {name: 🇬🇧 United Kingdom, server: 209.97.134.140, port: 443, type: trojan, password: 354ca566-3ab4-4e4e-9594-8693d78bc2c7, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.21.101:443, server: 104.20.21.101, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: XX 64, server: huxley.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: 🇯🇵 日本 免费节点02, server: freejp02.jd0001.top, port: 17428, type: trojan, password: 922a49fd-35cc-3dd1-acab-2a2bb8bd7432, sni: freejp02.jd0001.top, skip-cert-verify: false}
   - {name: XX 65, server: 172.67.181.209, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: RELAY-162.159.153.132-1095, server: 162.159.153.132, port: 443, type: trojan, password: auto, sni: tg.cmliussss.us.kg, skip-cert-verify: false}
   - {name: 🇩🇪 德国_Frankfurt am Main, server: 3.69.0.8, port: 443, type: trojan, password: NISHIKUITAN222, skip-cert-verify: false}
@@ -695,12 +698,12 @@
   - {name: TR-TCP-NA 🏴‍☠️ NA-104.16.223.254:443, server: 104.16.223.254, port: 443, type: trojan, password: blue2024, sni: ta.promote.icu, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.18.25.92:443, server: 104.18.25.92, port: 443, type: trojan, password: e8105dfd24414268b6c7652c63731097, sni: avianrecruit.com, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.26.8.160:443, server: 104.26.8.160, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
-  - {name: 🇭🇰 香港03-0.01× 3, server: tw1-vds8.anyhk.co, port: 20298, type: trojan, password: f403ae92-ab07-4199-bdf1-f8701d164529, sni: sale.alibaba.com, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 349, server: speedtest.org, port: 443, type: trojan, password: trojan, sni: test-a23.pages.dev, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 359, server: speedtest.org, port: 443, type: trojan, password: trojan, sni: test-a23.pages.dev, skip-cert-verify: false}
   - {name: XX 66, server: 104.16.192.158, port: 443, type: trojan, password: f0eb8c92ce8946aaba856569cff1a16b, sni: jobscareerforlawyers.com, skip-cert-verify: false}
   - {name: 🇺🇸 United States 22, server: 104.18.13.130, port: 443, type: trojan, password: 7fcced56-528a-4fc8-9a78-18deeb70631e, sni: uk1.trojanvpn.xyz, skip-cert-verify: false}
   - {name: XX 67, server: 198.41.220.14, port: 443, type: trojan, password: b4e8771997c94732acbc9ec4d19c2589, sni: avianrecruit.com, skip-cert-verify: false}
   - {name: XX 68, server: 172.66.47.128, port: 443, type: trojan, password: Watashi_VPN, sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir, skip-cert-verify: false}
+  - {name: 🇯🇵 日本 免费节点01, server: freejp01.jd0001.top, port: 37530, type: trojan, password: 922a49fd-35cc-3dd1-acab-2a2bb8bd7432, sni: freejp01.jd0001.top, skip-cert-verify: false}
   - {name: 🇭🇰 香港-20.187.85.198-5601, server: 20.187.85.198, port: 443, type: trojan, password: b26e31e5-eac1-45b0-9069-83830bd69521, sni: hkt.iamnotagoodman.com, skip-cert-verify: false}
   - {name: VL-0809-017, server: julio.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🇺🇸 United States 23, server: 162.159.130.234, port: 443, type: trojan, password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba, sni: de1.trojanvpn.de, skip-cert-verify: false}
@@ -712,6 +715,7 @@
   - {name: XX 69, server: 104.19.171.4, port: 443, type: trojan, password: dba20dcb635e430fa4d3bfc303a149d2, sni: jobscareertoday.com, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.153.90:443, server: 162.159.153.90, port: 443, type: trojan, password: tg-dns68, sni: vip.putata.eu.org, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.19.143:443, server: 104.20.19.143, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: 🇬🇧 TR-TCP-TLS 英国-35.177.252.131:22222, server: 35.177.252.131, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: 🇺🇸 United States 24, server: 104.21.43.16, port: 2083, type: trojan, password: qG9K8AGnn9XH5jUqeFu96g, sni: cdn13.cdn2cdn.com, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.64.35.202:443, server: 172.64.35.202, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.19.223.79:443, server: 104.19.223.79, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
@@ -740,16 +744,15 @@
   - {name: 🇯🇵 日本-74.226.136.204-6389, server: hk03.trojanyyds.xyz, port: 443, type: trojan, password: 9bb27128-e6d2-4cac-bbd3-beb46c4417f8, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.153.76:443, server: 162.159.153.76, port: 443, type: trojan, password: tg-dns68, sni: vip.putata.eu.org, skip-cert-verify: false}
   - {name: 🇨🇳 |台湾-IEPL 04 2, server: IEPL01.catcat-123.com, port: 20008, type: trojan, password: 2db71c8f-b7d3-4272-b868-2f7c92b395d1, sni: hinet-01.oneok.link, skip-cert-verify: false}
+  - {name: 🇨🇦 V1-加拿大, server: 9735bcba30980a814373344320d3315f.v1.cac.node-is.green, port: 43488, type: trojan, password: 7bd8bd80-0be5-4299-8a2c-8fafd4c247df, sni: ca1.speedtest.net, skip-cert-verify: false}
   - {name: 🇨🇳 |台湾-IEPL 04 3, server: IEPL01.catcat-123.com, port: 20008, type: trojan, password: c03b5a06-cc76-4b47-af5f-5d1159892e6d, sni: hinet-01.oneok.link, skip-cert-verify: false}
   - {name: 🇺🇸 _CA_加拿大->_US_美国, server: 23.227.38.11, port: 443, type: trojan, password: b17fa17d-13a0-4e8a-a398-8e549ea8b208, sni: syndication-statutes-wanted-logo.trycloudflare.com, skip-cert-verify: false}
-  - {name: 🇯🇵 日本 免费节点01, server: freejp01.jd0001.top, port: 36412, type: trojan, password: 922a49fd-35cc-3dd1-acab-2a2bb8bd7432, sni: freejp01.jd0001.top, skip-cert-verify: false}
   - {name: 🇺🇸 美国-13.248.252.114-9154, server: cnamemk.ciscocdn1.live, port: 443, type: trojan, password: 4d706727-996f-4427-930d-60f3bd414cf9, sni: c2mk.ciscocdn1.live, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.18.15:443, server: 104.20.18.15, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🇳🇱 荷兰-51.158.146.183-9287, server: 51.158.146.183, port: 443, type: trojan, password: f6a0a650-306e-11ee-b692-1239d0255272, sni: Speedtest.net, skip-cert-verify: false}
-  - {name: 🇯🇵 日本 免费节点02, server: freejp02.jd0001.top, port: 13900, type: trojan, password: 922a49fd-35cc-3dd1-acab-2a2bb8bd7432, sni: freejp02.jd0001.top, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.21.5:443, server: 104.20.21.5, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.66.44.203:443, server: 172.66.44.203, port: 443, type: trojan, password: bpb-trojan, sni: 403b3611-99bC-43b7-88D7-26ED5D0825A9-3.pagES.DEv, skip-cert-verify: false}
-  - {name: ChatGPT 🏁 ZZ_1117, server: 89.187.181.172, port: 43118, type: trojan, password: ypDt8RkT7J, skip-cert-verify: false}
+  - {name: ChatGPT 🏁 ZZ_1112, server: 89.187.181.172, port: 43118, type: trojan, password: ypDt8RkT7J, skip-cert-verify: false}
   - {name: XX 70, server: 104.19.171.8, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: jobscareerforlawyers.com, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.67.165.101:443, server: 172.67.165.101, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "🇺🇸 [02-24]--美国-113-141.193.68.81", server: 141.193.68.81, port: 443, type: trojan, password: 订阅内容解析错误29ea82cf-f956-42b2-a5dc-35feea39e7ff, skip-cert-verify: false}
@@ -758,7 +761,7 @@
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.44.192:443, server: 162.159.44.192, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: XX 71, server: 104.17.128.1, port: 2096, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.21.114:443, server: 104.20.21.114, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 185, server: lol.ps, port: 443, type: trojan, password: e8105dfd24414268b6c7652c63731097, sni: avianrecruit.com, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 193, server: lol.ps, port: 443, type: trojan, password: e8105dfd24414268b6c7652c63731097, sni: avianrecruit.com, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.21.36.165:443, server: 104.21.36.165, port: 443, type: trojan, password: azadnet-trojan, sni: XN----PmCnaaC0dKn0Rb71NdA.PagES.DeV, skip-cert-verify: false}
   - {name: 03-rep-tro, server: test97.alicesss.repl.co, port: 443, type: trojan, password: 2899e4e3-b57c-4af1-ad84-6dbf41fcccad, sni: test97.alicesss.repl.co, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.18.23.235:443, server: 104.18.23.235, port: 443, type: trojan, password: bpb-trojan, sni: 403b3611-99bc-43B7-88D7-26Ed5d0825A9-3.pageS.dev, skip-cert-verify: false}
@@ -770,6 +773,7 @@
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.26.12.54:443, server: 104.26.12.54, port: 443, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
   - {name: 🇺🇸 United States 25, server: 104.16.159.10, port: 443, type: trojan, password: 4aec4e7f8cf8454ea4613659822e1a61, sni: bangladeshipatri.com, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.153.183:443, server: 162.159.153.183, port: 443, type: trojan, password: tg-dns68, sni: vip.putata.eu.org, skip-cert-verify: false}
+  - {name: 🇰🇷 韩国 免费节点01, server: freehr01.jd0001.top, port: 14702, type: trojan, password: 922a49fd-35cc-3dd1-acab-2a2bb8bd7432, sni: freehr01.jd0001.top, skip-cert-verify: false}
   - {name: IR-@V2ray_Alpha-9, server: www.speedtest.net, port: 2052, type: trojan, password: 4b0915d7-8544-5d48-946a-a708d7288447, skip-cert-verify: false}
   - {name: 🇺🇸 美国 18, server: 104.26.1.19, port: 443, type: trojan, password: NISHIKUITAN222, skip-cert-verify: false, network: ws, ws-opts: {path: "%2F"}}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.20.58:443, server: 104.20.20.58, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
@@ -801,6 +805,7 @@
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.22.7:443, server: 104.20.22.7, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🇺🇸 TR-WS-TLS 美国-151.101.66.228:443, server: 151.101.66.228, port: 443, type: trojan, password: b98aec40-e52c-4e26-87d5-c406fe342dd7, sni: seminarsinmcb.faculty.ucdavis.edu, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.66.46.249:443, server: 172.66.46.249, port: 443, type: trojan, password: 90cd4a77-141a-43c9-991b-08263cfe9c10, sni: 79193c43.aryoovpn-5fr.pages.dev, skip-cert-verify: false}
+  - {name: 请确认软件开启证书不安全, server: 440d7f0556f3d9435c9d5deb6acb2040.v1.cac.node-is.green, port: 48913, type: trojan, password: 7bd8bd80-0be5-4299-8a2c-8fafd4c247df, sni: hk12.speedtest.net, skip-cert-verify: false}
   - {name: 🇯🇵 日本-74.226.136.204-3958, server: sg01.trojanyyds.xyz, port: 443, type: trojan, password: cd41b9d7-df15-46ad-a778-257b0851525a, skip-cert-verify: false}
   - {name: 🇷🇺 TR-WS-TLS 俄罗斯-185.176.24.2:443, server: 185.176.24.2, port: 443, type: trojan, password: bpb-trojan, sni: 403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.67.49.134:443, server: 172.67.49.134, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
@@ -816,19 +821,21 @@
   - {name: 🇫🇮 芬兰, server: 65.109.184.193, port: 2087, type: trojan, password: CMLiu, sni: aliorg.filegear-sg.me, skip-cert-verify: false}
   - {name: VL-0809-045, server: www.glassdoor.com, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: VL-0809-066, server: cris.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: 🇫🇷 TR-TCP-TLS 法国-13.39.121.157:22222, server: 13.39.121.157, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.18.15.19:443, server: 104.18.15.19, port: 443, type: trojan, password: 1b3b276f-44b4-4c39-bfdf-67ff6337b41f, sni: POOrIaREd--persEPolIS.pAGEs.Dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-198.41.220.5:443, server: 198.41.220.5, port: 443, type: trojan, password: cb1f26aa437d4bfa9b841d28503ce8cc, sni: jobscareertoday.com, skip-cert-verify: false}
-  - {name: _368, server: 168.138.73.206, port: 40003, type: trojan, password: 57edfecf-5694-4a34-8072-54a4f0636a62, skip-cert-verify: false}
+  - {name: _373, server: 168.138.73.206, port: 40003, type: trojan, password: 57edfecf-5694-4a34-8072-54a4f0636a62, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.66.47.130:443, server: 172.66.47.130, port: 443, type: trojan, password: e8b87dd9-cc8f-407c-a1f3-a564009fe6ee, sni: dc1bf227.vf-8co.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.17.157:443, server: 104.20.17.157, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.20.69:443, server: 104.20.20.69, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: 🇸🇬 新加坡-103.253.24.212-6815, server: sg1-trojan.bonds.id, port: 443, type: trojan, password: 71086710-33eb-11ed-adce-1239d0255272, skip-cert-verify: false}
   - {name: 🏳️‍🌈 日本-OS1-6-流量倍率:1.0, server: os1-6.nrojat.com, port: 443, type: trojan, password: EJBsFzWnEgXZnmzHq8, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.18.27.94:8443, server: 104.18.27.94, port: 8443, type: trojan, password: Watashi_VPN, sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir, skip-cert-verify: false}
-  - {name: ChatGPT 🏁 ZZ_1118, server: sure-mutt.sunbeam921.monster, port: 443, type: trojan, password: !<str> 3672449442956713984, skip-cert-verify: false}
+  - {name: ChatGPT 🏁 ZZ_1111, server: sure-mutt.sunbeam921.monster, port: 443, type: trojan, password: !<str> 3672449442956713984, skip-cert-verify: false}
   - {name: 🇯🇵 日本-74.226.136.204-6388, server: sk01.trojanyyds.xyz, port: 443, type: trojan, password: 9bb27128-e6d2-4cac-bbd3-beb46c4417f8, skip-cert-verify: false}
   - {name: 🇺🇸 美国 19, server: 154.17.9.71, port: 882, type: trojan, password: CMLiu, sni: aliorg.filegear-sg.me, skip-cert-verify: false}
   - {name: MCI-@V2ray_Alpha-14♾نامحدود, server: 172.66.47.151, port: 443, type: trojan, password: 89b3cbba-e6ac-485a-9481-976a0415eab9, sni: 23sPT.pAGEs.dEV, skip-cert-verify: false}
+  - {name: 🇨🇳 台湾 免费节点01, server: freetw01.jd0001.top, port: 14262, type: trojan, password: 922a49fd-35cc-3dd1-acab-2a2bb8bd7432, sni: freetw01.jd0001.top, skip-cert-verify: false}
   - {name: 🇺🇸 TR-TCP-NA 美国-43.153.80.208:443, server: 43.153.80.208, port: 443, type: trojan, password: CMLiu, sni: aliorg.filegear-sg.me, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-108.162.195.192:443, server: 108.162.195.192, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: VL-0809-021, server: go.inmobi.com, port: 2053, type: trojan, password: bpb-trojan, sni: bpB-worKER-paneL1-e4p.pAGes.dEV, skip-cert-verify: false}
@@ -870,13 +877,12 @@
   - {name: XX 86, server: 104.21.50.114, port: 443, type: trojan, password: auto, sni: esetsecuritylicense.nzuwcx.workers.dev, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.18.7.21:2053, server: 104.18.7.21, port: 2053, type: trojan, password: Tel-DailyConfigs, sni: kanale-daily-configs.blackoutconnection.ir, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-172.67.180.238:443, server: 172.67.180.238, port: 443, type: trojan, password: bpb-trojan, sni: 403b3611-99BC-43B7-88d7-26eD5D0825A9-3.PAges.DEV, skip-cert-verify: false}
-  - {name: 🇺🇸 _US_美国 3, server: 172.67.176.206, port: 2053, type: trojan, password: ZJU29smXwp, sni: damn-mci-again-3.danesh-bonyan.Store, skip-cert-verify: false}
+  - {name: 🇺🇸 _US_美国 2, server: 172.67.176.206, port: 2053, type: trojan, password: ZJU29smXwp, sni: damn-mci-again-3.danesh-bonyan.Store, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.152.231:443, server: 162.159.152.231, port: 443, type: trojan, password: tg-dns68, sni: vip.putata.eu.org, skip-cert-verify: false}
   - {name: 🇸🇪 TR-WS-TLS 瑞典-185.146.173.115:443, server: 185.146.173.115, port: 443, type: trojan, password: 9a4bc15d-a7d4-4181-9485-405629c36894, sni: king-ae1.pages.dev, skip-cert-verify: false}
-  - {name: TR-WS-TLS 🏴‍☠️ NA-172.67.161.104:443 2, server: 172.67.161.104, port: 443, type: trojan, password: DailyConfigs, sni: kanale-daily-configs.blackoutconnection.ir, skip-cert-verify: false}
+  - {name: TR-WS-TLS 🏴‍☠️ NA-172.67.161.104:443, server: 172.67.161.104, port: 443, type: trojan, password: DailyConfigs, sni: kanale-daily-configs.blackoutconnection.ir, skip-cert-verify: false}
   - {name: 🇸🇬 |新加坡-中转 02, server: CN-FS.catcat-123.com, port: 9210, type: trojan, password: 2db71c8f-b7d3-4272-b868-2f7c92b395d1, sni: SG-03.oneok.link, skip-cert-verify: false}
-  - {name: TR-WS-TLS 🏴‍☠️ NA-104.21.69.44:2096 2, server: 104.21.69.44, port: 2096, type: trojan, password: 98f0c223-cb75-4faa-859e-47110b1f052b, sni: iNTeRnET4EVERIeONe7.PaGes.DeV, skip-cert-verify: false}
   - {name: 🇺🇸 TR-TCP-NA 美国-198.62.62.156:443, server: 198.62.62.156, port: 443, type: trojan, password: blue2024, sni: ta.promote.icu, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-162.159.152.232:443, server: 162.159.152.232, port: 443, type: trojan, password: tg-dns68, sni: vip.putata.eu.org, skip-cert-verify: false}
   - {name: TR-WS-TLS 🏴‍☠️ NA-104.20.18.209:443, server: 104.20.18.209, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
-  - {name: 🇺🇸 @Vip_Security join us - 22, server: 52.231.36.138, port: 443, type: trojan, password: 5f27eb67-a1ea-43a3-9a33-8d85d61b9574, sni: krnode01.oportal.cc, skip-cert-verify: false}
+  - {name: 🇺🇸 @Vip_Security join us - 24, server: 52.231.36.138, port: 443, type: trojan, password: 5f27eb67-a1ea-43a3-9a33-8d85d61b9574, sni: krnode01.oportal.cc, skip-cert-verify: false}
