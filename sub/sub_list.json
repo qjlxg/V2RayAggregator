@@ -56,14 +56,6 @@
     "enabled": true
   },
   {
-    "id": 196,
-    "remarks": ".V2ray-Configs",
-    "site": ".V2ray-Configs",
-    "url": "https://ghp.ci/",
-    "update_method": "auto",
-    "enabled": true
-  },
-  {
     "id": 197,
     "remarks": ".dongchengjie",
     "site": ".dongchengjie",
@@ -166,13 +158,5 @@
     "url": "https://ghp.ci/https://github.com/qjlxg/YBSub/raw/refs/heads/master/sub/share/v2",
     "update_method": "auto",
     "enabled": true
-  },
-  {
-    "id": 210,
-    "remarks": ".proxies",
-    "site": "proxies",
-    "url": "https://pxypool.131433.xyz/clash/proxies",
-    "update_method": "auto",
-    "enabled": true
-  }
+  } 
 ]
