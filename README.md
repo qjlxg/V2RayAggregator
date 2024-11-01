@@ -521,7 +521,7 @@ high-speed node quantity: `200`
 - you can import these 200 tested nodes using their subscription link into different clients. refer to `Instructions & Usage` section
 
 ### all nodes
-merge nodes w/o dup: `16567`
+merge nodes w/o dup: `16411`
 - [Node link Mixed (V2ray)](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt)
 - [Node link Yaml (Clash)](https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml)
 
@@ -544,20 +544,20 @@ merge nodes w/o dup: `16567`
 
 
 ### node sources
-- [.proxypool](.proxypool), number of nodes: `1259`
-- [.V2ray-Configs](.V2ray-Configs), number of nodes: `2368`
-- [.ss](.ss), number of nodes: `655`
-- [.ss](.ss), number of nodes: `888`
-- [.ss](.ss), number of nodes: `1639`
+- [.proxypool](.proxypool), number of nodes: `1215`
+- [.dongchengjie](.dongchengjie), number of nodes: `115`
+- [.ss](.ss), number of nodes: `684`
+- [.ss](.ss), number of nodes: `904`
+- [.ss](.ss), number of nodes: `1548`
 - [.ss](.ss), number of nodes: `1052`
-- [.ss](.ss), number of nodes: `142`
-- [.ss](.ss), number of nodes: `688`
-- [.ss](.ss), number of nodes: `649`
-- [.ss](.ss), number of nodes: `8390`
-- [.YBSub](YBSub), number of nodes: `1717`
-- [.YBSub](YBSub), number of nodes: `8`
-- [.YBSub](YBSub), number of nodes: `909`
-- [.YBSub](YBSub), number of nodes: `5069`
+- [.ss](.ss), number of nodes: `184`
+- [.ss](.ss), number of nodes: `689`
+- [.ss](.ss), number of nodes: `657`
+- [.ss](.ss), number of nodes: `8304`
+- [.YBSub](YBSub), number of nodes: `1725`
+- [.YBSub](YBSub), number of nodes: `7`
+- [.YBSub](YBSub), number of nodes: `883`
+- [.YBSub](YBSub), number of nodes: `4943`
 
 ## Softwares
 
