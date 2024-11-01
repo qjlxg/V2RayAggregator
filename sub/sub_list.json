@@ -1,5 +1,45 @@
 [
   {
+    "id": 189,
+    "remarks": ".proxies",
+    "site": ".proxies",
+    "url": "https://free.iam8.shop/clash/proxies",
+    "update_method": "auto",
+    "enabled": true
+  },
+  {
+    "id": 190,
+    "remarks": ".genode",
+    "site": ".genode",
+    "url": "https://ghp.ci/https://github.com/qjlxg/genode/raw/refs/heads/main/public/ss.txt",
+    "update_method": "auto",
+    "enabled": true
+  },
+  {
+    "id": 191,
+    "remarks": ".genode",
+    "site": ".genode",
+    "url": "https://ghp.ci/https://github.com/qjlxg/genode/raw/refs/heads/main/public/ssr.txt",
+    "update_method": "auto",
+    "enabled": true
+  },
+  {
+    "id": 192,
+    "remarks": ".genode",
+    "site": ".genode",
+    "url": "https://ghp.ci/https://github.com/qjlxg/genode/raw/refs/heads/main/public/trojan.txt",
+    "update_method": "auto",
+    "enabled": true
+  },
+  {
+    "id": 193,
+    "remarks": ".genode",
+    "site": ".genode",
+    "url": "https://ghp.ci/https://github.com/qjlxg/genode/raw/refs/heads/main/public/vmess.txt",
+    "update_method": "auto",
+    "enabled": true
+  },
+  {
     "id": 194,
     "remarks": ".proxypool",
     "site": ".proxypool",
@@ -131,7 +171,7 @@
     "id": 210,
     "remarks": ".nodes",
     "site": "nodes",
-    "url": "https://ghp.cihttps://github.com/qjlxg/ss/raw/refs/heads/master/snippets/nodes.yml",
+    "url": "https://ghp.ci/https://github.com/qjlxg/ss/raw/refs/heads/master/snippets/nodes.yml",
     "update_method": "auto",
     "enabled": true
   }
