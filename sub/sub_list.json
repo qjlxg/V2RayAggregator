@@ -51,7 +51,7 @@
     "id": 195,
     "remarks": ".pool1999",
     "site": ".pool1999",
-    "url": "https://proxypool1999.banyunxiaoxi.icu/clash/proxies",
+    "url": "https://proxy.crazygeeky.com/clash/proxies",
     "update_method": "auto",
     "enabled": true
   },
@@ -59,7 +59,7 @@
     "id": 196,
     "remarks": ".V2ray-Configs",
     "site": ".V2ray-Configs",
-    "url": "https://ghp.ci/https://github.com/qjlxg/V2ray-Config/raw/refs/heads/main/Base64/Sub1_base64.txt",
+    "url": "https://ghp.ci/",
     "update_method": "auto",
     "enabled": true
   },
@@ -169,9 +169,9 @@
   },
   {
     "id": 210,
-    "remarks": ".nodes",
-    "site": "nodes",
-    "url": "https://ghp.ci/https://github.com/qjlxg/ss/raw/refs/heads/master/snippets/nodes.yml",
+    "remarks": ".proxies",
+    "site": "proxies",
+    "url": "https://pxypool.131433.xyz/clash/proxies",
     "update_method": "auto",
     "enabled": true
   }
