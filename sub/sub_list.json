@@ -1,5 +1,21 @@
 [
   {
+    "id": 194,
+    "remarks": ".proxypool",
+    "site": ".proxypool",
+    "url": "https://proxypool.link/clash/proxies",
+    "update_method": "auto",
+    "enabled": true
+  },
+   {
+    "id": 195,
+    "remarks": ".pool1999",
+    "site": ".pool1999",
+    "url": "https://proxypool1999.banyunxiaoxi.icu/clash/proxies",
+    "update_method": "auto",
+    "enabled": true
+  },
+  {
     "id": 196,
     "remarks": ".V2ray-Configs",
     "site": ".V2ray-Configs",
