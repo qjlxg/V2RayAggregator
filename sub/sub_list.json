@@ -25,9 +25,9 @@
   },
   {
     "id": 197,
-    "remarks": ".V2ray-Configs",
-    "site": ".V2ray-Configs",
-    "url": "https://ghp.ci/https://github.com/qjlxg/V2ray-Configs/raw/refs/heads/main/Sub2.txt",
+    "remarks": ".dongchengjie",
+    "site": ".dongchengjie",
+    "url": "https://ghp.ci/https://github.com/dongchengjie/airport/raw/refs/heads/main/subs/merged/tested_within.yaml",
     "update_method": "auto",
     "enabled": true
   },
