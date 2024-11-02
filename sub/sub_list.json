@@ -127,8 +127,64 @@
     "update_method": "auto",
     "enabled": true
   },
-  {
+   {
     "id": 206,
+    "remarks": ".ss",
+    "site": ".ss",
+    "url": "https://ghp.ci/https://github.com/qjlxg/ss/raw/refs/heads/master/snippets/nodes_KR.yml",
+    "update_method": "auto",
+    "enabled": true
+  },
+   {
+    "id": 207,
+    "remarks": ".ss",
+    "site": ".ss",
+    "url": "https://ghp.ci/https://github.com/qjlxg/ss/raw/refs/heads/master/snippets/nodes_DE.yml",
+    "update_method": "auto",
+    "enabled": true
+  },
+   {
+    "id": 208,
+    "remarks": ".ss",
+    "site": ".ss",
+    "url": "https://ghp.ci/https://github.com/qjlxg/ss/raw/refs/heads/master/snippets/nodes_EE.yml",
+    "update_method": "auto",
+    "enabled": true
+  },
+   {
+    "id": 209,
+    "remarks": ".ss",
+    "site": ".ss",
+    "url": "https://ghp.ci/https://github.com/qjlxg/ss/raw/refs/heads/master/snippets/nodes_GB.yml",
+    "update_method": "auto",
+    "enabled": true
+  },
+   {
+    "id": 210,
+    "remarks": ".ss",
+    "site": ".ss",
+    "url": "https://ghp.ci/https://github.com/qjlxg/ss/raw/refs/heads/master/snippets/nodes_RU.yml",
+    "update_method": "auto",
+    "enabled": true
+  },
+   {
+    "id": 211,
+    "remarks": ".ss",
+    "site": ".ss",
+    "url": "https://ghp.ci/https://github.com/qjlxg/ss/raw/refs/heads/master/snippets/nodes_SE.yml",
+    "update_method": "auto",
+    "enabled": true
+  },
+   {
+    "id": 212,
+    "remarks": ".ss",
+    "site": ".ss",
+    "url": "https://ghp.ci/https://github.com/qjlxg/ss/raw/refs/heads/master/snippets/nodes_CH.yml",
+    "update_method": "auto",
+    "enabled": true
+  },
+  {
+    "id": 213,
     "remarks": ".YBSub",
     "site": "YBSub",
     "url": "https://ghp.ci/https://github.com/qjlxg/YBSub/raw/refs/heads/master/sub/share/ss",
@@ -136,7 +192,7 @@
     "enabled": true
   },
   {
-    "id": 207,
+    "id": 214,
     "remarks": ".YBSub",
     "site": "YBSub",
     "url": "https://ghp.ci/https://github.com/qjlxg/YBSub/raw/refs/heads/master/sub/share/ssr",
@@ -144,7 +200,7 @@
     "enabled": true
   },
   {
-    "id": 208,
+    "id": 215,
     "remarks": ".YBSub",
     "site": "YBSub",
     "url": "https://ghp.ci/https://github.com/qjlxg/YBSub/raw/refs/heads/master/sub/share/tr",
@@ -152,7 +208,7 @@
     "enabled": true
   },
   {
-    "id": 209,
+    "id": 216,
     "remarks": ".YBSub",
     "site": "YBSub",
     "url": "https://ghp.ci/https://github.com/qjlxg/YBSub/raw/refs/heads/master/sub/share/v2",
