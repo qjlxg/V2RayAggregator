@@ -521,7 +521,7 @@ high-speed node quantity: `200`
 - you can import these 200 tested nodes using their subscription link into different clients. refer to `Instructions & Usage` section
 
 ### all nodes
-merge nodes w/o dup: `17761`
+merge nodes w/o dup: `18405`
 - [Node link Mixed (V2ray)](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt)
 - [Node link Yaml (Clash)](https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml)
 
@@ -544,26 +544,26 @@ merge nodes w/o dup: `17761`
 
 
 ### node sources
-- [.proxies](.proxies), number of nodes: `1345`
-- [.genode](.genode), number of nodes: `1729`
+- [.proxies](.proxies), number of nodes: `1374`
+- [.genode](.genode), number of nodes: `1725`
 - [.genode](.genode), number of nodes: `6`
-- [.genode](.genode), number of nodes: `1088`
-- [.genode](.genode), number of nodes: `4506`
-- [.proxypool](.proxypool), number of nodes: `1008`
-- [.pool1999](.pool1999), number of nodes: `165`
+- [.genode](.genode), number of nodes: `1090`
+- [.genode](.genode), number of nodes: `4496`
+- [.proxypool](.proxypool), number of nodes: `1037`
+- [.pool1999](.pool1999), number of nodes: `222`
 - [.dongchengjie](.dongchengjie), number of nodes: `145`
-- [.ss](.ss), number of nodes: `797`
-- [.ss](.ss), number of nodes: `1093`
-- [.ss](.ss), number of nodes: `2113`
-- [.ss](.ss), number of nodes: `1016`
-- [.ss](.ss), number of nodes: `182`
-- [.ss](.ss), number of nodes: `928`
+- [.ss](.ss), number of nodes: `820`
+- [.ss](.ss), number of nodes: `1111`
+- [.ss](.ss), number of nodes: `2125`
+- [.ss](.ss), number of nodes: `1026`
+- [.ss](.ss), number of nodes: `183`
+- [.ss](.ss), number of nodes: `925`
 - [.ss](.ss), number of nodes: `659`
-- [.ss](.ss), number of nodes: `9426`
-- [.YBSub](YBSub), number of nodes: `1729`
+- [.ss](.ss), number of nodes: `9619`
+- [.YBSub](YBSub), number of nodes: `1699`
 - [.YBSub](YBSub), number of nodes: `6`
-- [.YBSub](YBSub), number of nodes: `1092`
-- [.YBSub](YBSub), number of nodes: `4506`
+- [.YBSub](YBSub), number of nodes: `1100`
+- [.YBSub](YBSub), number of nodes: `4774`
 
 ## Softwares
 
