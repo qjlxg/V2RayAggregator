@@ -222,5 +222,37 @@
     "url": "https://ghp.ci/https://github.com/qjlxg/YBSub/raw/refs/heads/master/sub/share/v2",
     "update_method": "auto",
     "enabled": true
+  },
+  {
+    "id": 217,
+    "remarks": ".hy2",
+    "site": "hy2",
+    "url": "https://ghp.ci/https://github.com/qjlxg/hy2/raw/refs/heads/main/splitted/ss",
+    "update_method": "auto",
+    "enabled": true
+  },
+  {
+    "id": 218,
+    "remarks": ".hy2",
+    "site": "hy2",
+    "url": "https://ghp.ci/https://github.com/qjlxg/hy2/raw/refs/heads/main/splitted/trojan",
+    "update_method": "auto",
+    "enabled": true
+  },
+  {
+    "id": 219,
+    "remarks": ".hy2",
+    "site": "hy2",
+    "url": "https://ghp.ci/https://github.com/qjlxg/hy2/raw/refs/heads/main/splitted/vless",
+    "update_method": "auto",
+    "enabled": true
+  },
+  {
+    "id": 220,
+    "remarks": ".hy2",
+    "site": "hy2",
+    "url": "https://ghp.ci/https://github.com/qjlxg/hy2/raw/refs/heads/main/splitted/vmess",
+    "update_method": "auto",
+    "enabled": true
   }
 ]
